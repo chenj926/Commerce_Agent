@@ -1,0 +1,1501 @@
+sku_id,category,subtype,base_price
+1,Beverages,water,0.69
+2,Beverages,water,0.69
+3,Beverages,water,0.69
+4,Beverages,water,0.69
+5,Beverages,water,0.69
+6,Beverages,water,0.69
+7,Beverages,water,0.69
+8,Beverages,water,0.69
+9,Beverages,water,0.69
+10,Beverages,water,0.69
+11,Beverages,water,0.69
+12,Beverages,water,0.69
+13,Beverages,water,1.15
+14,Beverages,water,1.15
+15,Beverages,water,1.15
+16,Beverages,water,1.15
+17,Beverages,water,1.15
+18,Beverages,water,1.15
+19,Beverages,water,1.15
+20,Beverages,water,1.15
+21,Beverages,water,1.15
+22,Beverages,water,1.15
+23,Beverages,water,1.15
+24,Beverages,water,1.15
+25,Beverages,water,1.61
+26,Beverages,water,1.61
+27,Beverages,water,1.61
+28,Beverages,water,1.61
+29,Beverages,water,1.61
+30,Beverages,water,1.61
+31,Beverages,water,1.61
+32,Beverages,water,1.61
+33,Beverages,water,1.61
+34,Beverages,water,1.61
+35,Beverages,water,1.61
+36,Beverages,cola,1.01
+37,Beverages,cola,1.01
+38,Beverages,cola,1.01
+39,Beverages,cola,1.01
+40,Beverages,cola,1.01
+41,Beverages,cola,1.01
+42,Beverages,cola,1.01
+43,Beverages,cola,1.01
+44,Beverages,cola,1.01
+45,Beverages,cola,1.01
+46,Beverages,cola,1.01
+47,Beverages,cola,1.35
+48,Beverages,cola,1.35
+49,Beverages,cola,1.35
+50,Beverages,cola,1.35
+51,Beverages,cola,1.35
+52,Beverages,cola,1.35
+53,Beverages,cola,1.35
+54,Beverages,cola,1.35
+55,Beverages,cola,1.35
+56,Beverages,cola,1.35
+57,Beverages,cola,1.35
+58,Beverages,cola,1.82
+59,Beverages,cola,1.82
+60,Beverages,cola,1.82
+61,Beverages,cola,1.82
+62,Beverages,cola,1.82
+63,Beverages,cola,1.82
+64,Beverages,cola,1.82
+65,Beverages,cola,1.82
+66,Beverages,cola,1.82
+67,Beverages,cola,1.82
+68,Beverages,cola,1.82
+69,Beverages,energy drink,1.47
+70,Beverages,energy drink,1.47
+71,Beverages,energy drink,1.47
+72,Beverages,energy drink,1.47
+73,Beverages,energy drink,1.47
+74,Beverages,energy drink,1.47
+75,Beverages,energy drink,1.47
+76,Beverages,energy drink,1.47
+77,Beverages,energy drink,1.47
+78,Beverages,energy drink,1.47
+79,Beverages,energy drink,1.47
+80,Beverages,energy drink,2.1
+81,Beverages,energy drink,2.1
+82,Beverages,energy drink,2.1
+83,Beverages,energy drink,2.1
+84,Beverages,energy drink,2.1
+85,Beverages,energy drink,2.1
+86,Beverages,energy drink,2.1
+87,Beverages,energy drink,2.1
+88,Beverages,energy drink,2.1
+89,Beverages,energy drink,2.1
+90,Beverages,energy drink,2.1
+91,Beverages,energy drink,3.15
+92,Beverages,energy drink,3.15
+93,Beverages,energy drink,3.15
+94,Beverages,energy drink,3.15
+95,Beverages,energy drink,3.15
+96,Beverages,energy drink,3.15
+97,Beverages,energy drink,3.15
+98,Beverages,energy drink,3.15
+99,Beverages,energy drink,3.15
+100,Beverages,energy drink,3.15
+101,Beverages,energy drink,3.15
+102,Beverages,iced tea,1.22
+103,Beverages,iced tea,1.22
+104,Beverages,iced tea,1.22
+105,Beverages,iced tea,1.22
+106,Beverages,iced tea,1.22
+107,Beverages,iced tea,1.22
+108,Beverages,iced tea,1.22
+109,Beverages,iced tea,1.22
+110,Beverages,iced tea,1.22
+111,Beverages,iced tea,1.22
+112,Beverages,iced tea,1.22
+113,Beverages,iced tea,1.75
+114,Beverages,iced tea,1.75
+115,Beverages,iced tea,1.75
+116,Beverages,iced tea,1.75
+117,Beverages,iced tea,1.75
+118,Beverages,iced tea,1.75
+119,Beverages,iced tea,1.75
+120,Beverages,iced tea,1.75
+121,Beverages,iced tea,1.75
+122,Beverages,iced tea,1.75
+123,Beverages,iced tea,1.75
+124,Beverages,iced tea,2.54
+125,Beverages,iced tea,2.54
+126,Beverages,iced tea,2.54
+127,Beverages,iced tea,2.54
+128,Beverages,iced tea,2.54
+129,Beverages,iced tea,2.54
+130,Beverages,iced tea,2.54
+131,Beverages,iced tea,2.54
+132,Beverages,iced tea,2.54
+133,Beverages,iced tea,2.54
+134,Beverages,iced tea,2.54
+135,Beverages,kombucha,2.24
+136,Beverages,kombucha,2.24
+137,Beverages,kombucha,2.24
+138,Beverages,kombucha,2.24
+139,Beverages,kombucha,2.24
+140,Beverages,kombucha,2.24
+141,Beverages,kombucha,2.24
+142,Beverages,kombucha,2.24
+143,Beverages,kombucha,2.24
+144,Beverages,kombucha,2.24
+145,Beverages,kombucha,2.24
+146,Beverages,kombucha,3.45
+147,Beverages,kombucha,3.45
+148,Beverages,kombucha,3.45
+149,Beverages,kombucha,3.45
+150,Beverages,kombucha,3.45
+151,Beverages,kombucha,3.45
+152,Beverages,kombucha,3.45
+153,Beverages,kombucha,3.45
+154,Beverages,kombucha,3.45
+155,Beverages,kombucha,3.45
+156,Beverages,kombucha,3.45
+157,Beverages,kombucha,5.35
+158,Beverages,kombucha,5.35
+159,Beverages,kombucha,5.35
+160,Beverages,kombucha,5.35
+161,Beverages,kombucha,5.35
+162,Beverages,kombucha,5.35
+163,Beverages,kombucha,5.35
+164,Beverages,kombucha,5.35
+165,Beverages,kombucha,5.35
+166,Beverages,kombucha,5.35
+167,Beverages,kombucha,5.35
+168,Beverages,juice box,0.88
+169,Beverages,juice box,0.88
+170,Beverages,juice box,0.88
+171,Beverages,juice box,0.88
+172,Beverages,juice box,0.88
+173,Beverages,juice box,0.88
+174,Beverages,juice box,0.88
+175,Beverages,juice box,0.88
+176,Beverages,juice box,0.88
+177,Beverages,juice box,0.88
+178,Beverages,juice box,0.88
+179,Beverages,juice box,1.25
+180,Beverages,juice box,1.25
+181,Beverages,juice box,1.25
+182,Beverages,juice box,1.25
+183,Beverages,juice box,1.25
+184,Beverages,juice box,1.25
+185,Beverages,juice box,1.25
+186,Beverages,juice box,1.25
+187,Beverages,juice box,1.25
+188,Beverages,juice box,1.25
+189,Beverages,juice box,1.25
+190,Beverages,juice box,1.75
+191,Beverages,juice box,1.75
+192,Beverages,juice box,1.75
+193,Beverages,juice box,1.75
+194,Beverages,juice box,1.75
+195,Beverages,juice box,1.75
+196,Beverages,juice box,1.75
+197,Beverages,juice box,1.75
+198,Beverages,juice box,1.75
+199,Beverages,juice box,1.75
+200,Beverages,juice box,1.75
+201,Snacks,potato chips,2.06
+202,Snacks,potato chips,2.06
+203,Snacks,potato chips,2.06
+204,Snacks,potato chips,2.06
+205,Snacks,potato chips,2.06
+206,Snacks,potato chips,2.06
+207,Snacks,potato chips,2.06
+208,Snacks,potato chips,2.06
+209,Snacks,potato chips,2.06
+210,Snacks,potato chips,2.06
+211,Snacks,potato chips,2.06
+212,Snacks,potato chips,2.06
+213,Snacks,potato chips,2.06
+214,Snacks,potato chips,2.95
+215,Snacks,potato chips,2.95
+216,Snacks,potato chips,2.95
+217,Snacks,potato chips,2.95
+218,Snacks,potato chips,2.95
+219,Snacks,potato chips,2.95
+220,Snacks,potato chips,2.95
+221,Snacks,potato chips,2.95
+222,Snacks,potato chips,2.95
+223,Snacks,potato chips,2.95
+224,Snacks,potato chips,2.95
+225,Snacks,potato chips,2.95
+226,Snacks,potato chips,2.95
+227,Snacks,potato chips,4.28
+228,Snacks,potato chips,4.28
+229,Snacks,potato chips,4.28
+230,Snacks,potato chips,4.28
+231,Snacks,potato chips,4.28
+232,Snacks,potato chips,4.28
+233,Snacks,potato chips,4.28
+234,Snacks,potato chips,4.28
+235,Snacks,potato chips,4.28
+236,Snacks,potato chips,4.28
+237,Snacks,potato chips,4.28
+238,Snacks,potato chips,4.28
+239,Snacks,potato chips,4.28
+240,Snacks,potato chips,4.28
+241,Snacks,tortilla chips,2.44
+242,Snacks,tortilla chips,2.44
+243,Snacks,tortilla chips,2.44
+244,Snacks,tortilla chips,2.44
+245,Snacks,tortilla chips,2.44
+246,Snacks,tortilla chips,2.44
+247,Snacks,tortilla chips,2.44
+248,Snacks,tortilla chips,2.44
+249,Snacks,tortilla chips,2.44
+250,Snacks,tortilla chips,2.44
+251,Snacks,tortilla chips,2.44
+252,Snacks,tortilla chips,2.44
+253,Snacks,tortilla chips,2.44
+254,Snacks,tortilla chips,3.49
+255,Snacks,tortilla chips,3.49
+256,Snacks,tortilla chips,3.49
+257,Snacks,tortilla chips,3.49
+258,Snacks,tortilla chips,3.49
+259,Snacks,tortilla chips,3.49
+260,Snacks,tortilla chips,3.49
+261,Snacks,tortilla chips,3.49
+262,Snacks,tortilla chips,3.49
+263,Snacks,tortilla chips,3.49
+264,Snacks,tortilla chips,3.49
+265,Snacks,tortilla chips,3.49
+266,Snacks,tortilla chips,3.49
+267,Snacks,tortilla chips,4.89
+268,Snacks,tortilla chips,4.89
+269,Snacks,tortilla chips,4.89
+270,Snacks,tortilla chips,4.89
+271,Snacks,tortilla chips,4.89
+272,Snacks,tortilla chips,4.89
+273,Snacks,tortilla chips,4.89
+274,Snacks,tortilla chips,4.89
+275,Snacks,tortilla chips,4.89
+276,Snacks,tortilla chips,4.89
+277,Snacks,tortilla chips,4.89
+278,Snacks,tortilla chips,4.89
+279,Snacks,tortilla chips,4.89
+280,Snacks,mixed nuts,2.7
+281,Snacks,mixed nuts,2.7
+282,Snacks,mixed nuts,2.7
+283,Snacks,mixed nuts,2.7
+284,Snacks,mixed nuts,2.7
+285,Snacks,mixed nuts,2.7
+286,Snacks,mixed nuts,2.7
+287,Snacks,mixed nuts,2.7
+288,Snacks,mixed nuts,2.7
+289,Snacks,mixed nuts,2.7
+290,Snacks,mixed nuts,2.7
+291,Snacks,mixed nuts,2.7
+292,Snacks,mixed nuts,2.7
+293,Snacks,mixed nuts,2.7
+294,Snacks,mixed nuts,4.5
+295,Snacks,mixed nuts,4.5
+296,Snacks,mixed nuts,4.5
+297,Snacks,mixed nuts,4.5
+298,Snacks,mixed nuts,4.5
+299,Snacks,mixed nuts,4.5
+300,Snacks,mixed nuts,4.5
+301,Snacks,mixed nuts,4.5
+302,Snacks,mixed nuts,4.5
+303,Snacks,mixed nuts,4.5
+304,Snacks,mixed nuts,4.5
+305,Snacks,mixed nuts,4.5
+306,Snacks,mixed nuts,4.5
+307,Snacks,mixed nuts,6.75
+308,Snacks,mixed nuts,6.75
+309,Snacks,mixed nuts,6.75
+310,Snacks,mixed nuts,6.75
+311,Snacks,mixed nuts,6.75
+312,Snacks,mixed nuts,6.75
+313,Snacks,mixed nuts,6.75
+314,Snacks,mixed nuts,6.75
+315,Snacks,mixed nuts,6.75
+316,Snacks,mixed nuts,6.75
+317,Snacks,mixed nuts,6.75
+318,Snacks,mixed nuts,6.75
+319,Snacks,mixed nuts,6.75
+320,Snacks,mixed nuts,6.75
+321,Snacks,granola bar,0.45
+322,Snacks,granola bar,0.45
+323,Snacks,granola bar,0.45
+324,Snacks,granola bar,0.45
+325,Snacks,granola bar,0.45
+326,Snacks,granola bar,0.45
+327,Snacks,granola bar,0.45
+328,Snacks,granola bar,0.45
+329,Snacks,granola bar,0.45
+330,Snacks,granola bar,0.45
+331,Snacks,granola bar,0.45
+332,Snacks,granola bar,0.45
+333,Snacks,granola bar,0.45
+334,Snacks,granola bar,0.6
+335,Snacks,granola bar,0.6
+336,Snacks,granola bar,0.6
+337,Snacks,granola bar,0.6
+338,Snacks,granola bar,0.6
+339,Snacks,granola bar,0.6
+340,Snacks,granola bar,0.6
+341,Snacks,granola bar,0.6
+342,Snacks,granola bar,0.6
+343,Snacks,granola bar,0.6
+344,Snacks,granola bar,0.6
+345,Snacks,granola bar,0.6
+346,Snacks,granola bar,0.6
+347,Snacks,granola bar,0.6
+348,Snacks,granola bar,0.78
+349,Snacks,granola bar,0.78
+350,Snacks,granola bar,0.78
+351,Snacks,granola bar,0.78
+352,Snacks,granola bar,0.78
+353,Snacks,granola bar,0.78
+354,Snacks,granola bar,0.78
+355,Snacks,granola bar,0.78
+356,Snacks,granola bar,0.78
+357,Snacks,granola bar,0.78
+358,Snacks,granola bar,0.78
+359,Snacks,granola bar,0.78
+360,Snacks,granola bar,0.78
+361,Snacks,popcorn,1.57
+362,Snacks,popcorn,1.57
+363,Snacks,popcorn,1.57
+364,Snacks,popcorn,1.57
+365,Snacks,popcorn,1.57
+366,Snacks,popcorn,1.57
+367,Snacks,popcorn,1.57
+368,Snacks,popcorn,1.57
+369,Snacks,popcorn,1.57
+370,Snacks,popcorn,1.57
+371,Snacks,popcorn,1.57
+372,Snacks,popcorn,1.57
+373,Snacks,popcorn,1.57
+374,Snacks,popcorn,1.57
+375,Snacks,popcorn,2.25
+376,Snacks,popcorn,2.25
+377,Snacks,popcorn,2.25
+378,Snacks,popcorn,2.25
+379,Snacks,popcorn,2.25
+380,Snacks,popcorn,2.25
+381,Snacks,popcorn,2.25
+382,Snacks,popcorn,2.25
+383,Snacks,popcorn,2.25
+384,Snacks,popcorn,2.25
+385,Snacks,popcorn,2.25
+386,Snacks,popcorn,2.25
+387,Snacks,popcorn,2.25
+388,Snacks,popcorn,3.04
+389,Snacks,popcorn,3.04
+390,Snacks,popcorn,3.04
+391,Snacks,popcorn,3.04
+392,Snacks,popcorn,3.04
+393,Snacks,popcorn,3.04
+394,Snacks,popcorn,3.04
+395,Snacks,popcorn,3.04
+396,Snacks,popcorn,3.04
+397,Snacks,popcorn,3.04
+398,Snacks,popcorn,3.04
+399,Snacks,popcorn,3.04
+400,Snacks,popcorn,3.04
+401,Dairy,whole milk,3.03
+402,Dairy,whole milk,3.03
+403,Dairy,whole milk,3.03
+404,Dairy,whole milk,3.03
+405,Dairy,whole milk,3.03
+406,Dairy,whole milk,3.03
+407,Dairy,whole milk,3.03
+408,Dairy,whole milk,3.03
+409,Dairy,whole milk,3.03
+410,Dairy,whole milk,3.03
+411,Dairy,whole milk,3.79
+412,Dairy,whole milk,3.79
+413,Dairy,whole milk,3.79
+414,Dairy,whole milk,3.79
+415,Dairy,whole milk,3.79
+416,Dairy,whole milk,3.79
+417,Dairy,whole milk,3.79
+418,Dairy,whole milk,3.79
+419,Dairy,whole milk,3.79
+420,Dairy,whole milk,3.79
+421,Dairy,whole milk,4.74
+422,Dairy,whole milk,4.74
+423,Dairy,whole milk,4.74
+424,Dairy,whole milk,4.74
+425,Dairy,whole milk,4.74
+426,Dairy,whole milk,4.74
+427,Dairy,whole milk,4.74
+428,Dairy,whole milk,4.74
+429,Dairy,whole milk,4.74
+430,Dairy,whole milk,4.74
+431,Dairy,yogurt cup,0.71
+432,Dairy,yogurt cup,0.71
+433,Dairy,yogurt cup,0.71
+434,Dairy,yogurt cup,0.71
+435,Dairy,yogurt cup,0.71
+436,Dairy,yogurt cup,0.71
+437,Dairy,yogurt cup,0.71
+438,Dairy,yogurt cup,0.71
+439,Dairy,yogurt cup,0.71
+440,Dairy,yogurt cup,0.71
+441,Dairy,yogurt cup,0.95
+442,Dairy,yogurt cup,0.95
+443,Dairy,yogurt cup,0.95
+444,Dairy,yogurt cup,0.95
+445,Dairy,yogurt cup,0.95
+446,Dairy,yogurt cup,0.95
+447,Dairy,yogurt cup,0.95
+448,Dairy,yogurt cup,0.95
+449,Dairy,yogurt cup,0.95
+450,Dairy,yogurt cup,0.95
+451,Dairy,yogurt cup,1.28
+452,Dairy,yogurt cup,1.28
+453,Dairy,yogurt cup,1.28
+454,Dairy,yogurt cup,1.28
+455,Dairy,yogurt cup,1.28
+456,Dairy,yogurt cup,1.28
+457,Dairy,yogurt cup,1.28
+458,Dairy,yogurt cup,1.28
+459,Dairy,yogurt cup,1.28
+460,Dairy,yogurt cup,1.28
+461,Dairy,cheese slices,2.97
+462,Dairy,cheese slices,2.97
+463,Dairy,cheese slices,2.97
+464,Dairy,cheese slices,2.97
+465,Dairy,cheese slices,2.97
+466,Dairy,cheese slices,2.97
+467,Dairy,cheese slices,2.97
+468,Dairy,cheese slices,2.97
+469,Dairy,cheese slices,2.97
+470,Dairy,cheese slices,2.97
+471,Dairy,cheese slices,4.25
+472,Dairy,cheese slices,4.25
+473,Dairy,cheese slices,4.25
+474,Dairy,cheese slices,4.25
+475,Dairy,cheese slices,4.25
+476,Dairy,cheese slices,4.25
+477,Dairy,cheese slices,4.25
+478,Dairy,cheese slices,4.25
+479,Dairy,cheese slices,4.25
+480,Dairy,cheese slices,4.25
+481,Dairy,cheese slices,5.95
+482,Dairy,cheese slices,5.95
+483,Dairy,cheese slices,5.95
+484,Dairy,cheese slices,5.95
+485,Dairy,cheese slices,5.95
+486,Dairy,cheese slices,5.95
+487,Dairy,cheese slices,5.95
+488,Dairy,cheese slices,5.95
+489,Dairy,cheese slices,5.95
+490,Dairy,cheese slices,5.95
+491,Dairy,butter stick,2.38
+492,Dairy,butter stick,2.38
+493,Dairy,butter stick,2.38
+494,Dairy,butter stick,2.38
+495,Dairy,butter stick,2.38
+496,Dairy,butter stick,2.38
+497,Dairy,butter stick,2.38
+498,Dairy,butter stick,2.38
+499,Dairy,butter stick,2.38
+500,Dairy,butter stick,2.38
+501,Dairy,butter stick,3.4
+502,Dairy,butter stick,3.4
+503,Dairy,butter stick,3.4
+504,Dairy,butter stick,3.4
+505,Dairy,butter stick,3.4
+506,Dairy,butter stick,3.4
+507,Dairy,butter stick,3.4
+508,Dairy,butter stick,3.4
+509,Dairy,butter stick,3.4
+510,Dairy,butter stick,3.4
+511,Dairy,butter stick,4.76
+512,Dairy,butter stick,4.76
+513,Dairy,butter stick,4.76
+514,Dairy,butter stick,4.76
+515,Dairy,butter stick,4.76
+516,Dairy,butter stick,4.76
+517,Dairy,butter stick,4.76
+518,Dairy,butter stick,4.76
+519,Dairy,butter stick,4.76
+520,Dairy,butter stick,4.76
+521,Dairy,oat milk,3.07
+522,Dairy,oat milk,3.07
+523,Dairy,oat milk,3.07
+524,Dairy,oat milk,3.07
+525,Dairy,oat milk,3.07
+526,Dairy,oat milk,3.07
+527,Dairy,oat milk,3.07
+528,Dairy,oat milk,3.07
+529,Dairy,oat milk,3.07
+530,Dairy,oat milk,3.07
+531,Dairy,oat milk,4.1
+532,Dairy,oat milk,4.1
+533,Dairy,oat milk,4.1
+534,Dairy,oat milk,4.1
+535,Dairy,oat milk,4.1
+536,Dairy,oat milk,4.1
+537,Dairy,oat milk,4.1
+538,Dairy,oat milk,4.1
+539,Dairy,oat milk,4.1
+540,Dairy,oat milk,4.1
+541,Dairy,oat milk,5.33
+542,Dairy,oat milk,5.33
+543,Dairy,oat milk,5.33
+544,Dairy,oat milk,5.33
+545,Dairy,oat milk,5.33
+546,Dairy,oat milk,5.33
+547,Dairy,oat milk,5.33
+548,Dairy,oat milk,5.33
+549,Dairy,oat milk,5.33
+550,Dairy,oat milk,5.33
+551,Bakery,white loaf,2.12
+552,Bakery,white loaf,2.12
+553,Bakery,white loaf,2.12
+554,Bakery,white loaf,2.12
+555,Bakery,white loaf,2.12
+556,Bakery,white loaf,2.12
+557,Bakery,white loaf,2.12
+558,Bakery,white loaf,2.12
+559,Bakery,white loaf,2.12
+560,Bakery,white loaf,2.12
+561,Bakery,white loaf,2.65
+562,Bakery,white loaf,2.65
+563,Bakery,white loaf,2.65
+564,Bakery,white loaf,2.65
+565,Bakery,white loaf,2.65
+566,Bakery,white loaf,2.65
+567,Bakery,white loaf,2.65
+568,Bakery,white loaf,2.65
+569,Bakery,white loaf,2.65
+570,Bakery,white loaf,2.65
+571,Bakery,white loaf,3.31
+572,Bakery,white loaf,3.31
+573,Bakery,white loaf,3.31
+574,Bakery,white loaf,3.31
+575,Bakery,white loaf,3.31
+576,Bakery,white loaf,3.31
+577,Bakery,white loaf,3.31
+578,Bakery,white loaf,3.31
+579,Bakery,white loaf,3.31
+580,Bakery,white loaf,3.31
+581,Bakery,whole‑grain loaf,2.6
+582,Bakery,whole‑grain loaf,2.6
+583,Bakery,whole‑grain loaf,2.6
+584,Bakery,whole‑grain loaf,2.6
+585,Bakery,whole‑grain loaf,2.6
+586,Bakery,whole‑grain loaf,2.6
+587,Bakery,whole‑grain loaf,2.6
+588,Bakery,whole‑grain loaf,2.6
+589,Bakery,whole‑grain loaf,2.6
+590,Bakery,whole‑grain loaf,2.6
+591,Bakery,whole‑grain loaf,3.25
+592,Bakery,whole‑grain loaf,3.25
+593,Bakery,whole‑grain loaf,3.25
+594,Bakery,whole‑grain loaf,3.25
+595,Bakery,whole‑grain loaf,3.25
+596,Bakery,whole‑grain loaf,3.25
+597,Bakery,whole‑grain loaf,3.25
+598,Bakery,whole‑grain loaf,3.25
+599,Bakery,whole‑grain loaf,3.25
+600,Bakery,whole‑grain loaf,3.25
+601,Bakery,whole‑grain loaf,4.06
+602,Bakery,whole‑grain loaf,4.06
+603,Bakery,whole‑grain loaf,4.06
+604,Bakery,whole‑grain loaf,4.06
+605,Bakery,whole‑grain loaf,4.06
+606,Bakery,whole‑grain loaf,4.06
+607,Bakery,whole‑grain loaf,4.06
+608,Bakery,whole‑grain loaf,4.06
+609,Bakery,whole‑grain loaf,4.06
+610,Bakery,whole‑grain loaf,4.06
+611,Bakery,bagel pack,2.72
+612,Bakery,bagel pack,2.72
+613,Bakery,bagel pack,2.72
+614,Bakery,bagel pack,2.72
+615,Bakery,bagel pack,2.72
+616,Bakery,bagel pack,2.72
+617,Bakery,bagel pack,2.72
+618,Bakery,bagel pack,2.72
+619,Bakery,bagel pack,2.72
+620,Bakery,bagel pack,2.72
+621,Bakery,bagel pack,3.49
+622,Bakery,bagel pack,3.49
+623,Bakery,bagel pack,3.49
+624,Bakery,bagel pack,3.49
+625,Bakery,bagel pack,3.49
+626,Bakery,bagel pack,3.49
+627,Bakery,bagel pack,3.49
+628,Bakery,bagel pack,3.49
+629,Bakery,bagel pack,3.49
+630,Bakery,bagel pack,3.49
+631,Bakery,bagel pack,4.54
+632,Bakery,bagel pack,4.54
+633,Bakery,bagel pack,4.54
+634,Bakery,bagel pack,4.54
+635,Bakery,bagel pack,4.54
+636,Bakery,bagel pack,4.54
+637,Bakery,bagel pack,4.54
+638,Bakery,bagel pack,4.54
+639,Bakery,bagel pack,4.54
+640,Bakery,bagel pack,4.54
+641,Bakery,croissant,1.26
+642,Bakery,croissant,1.26
+643,Bakery,croissant,1.26
+644,Bakery,croissant,1.26
+645,Bakery,croissant,1.26
+646,Bakery,croissant,1.26
+647,Bakery,croissant,1.26
+648,Bakery,croissant,1.26
+649,Bakery,croissant,1.26
+650,Bakery,croissant,1.26
+651,Bakery,croissant,1.8
+652,Bakery,croissant,1.8
+653,Bakery,croissant,1.8
+654,Bakery,croissant,1.8
+655,Bakery,croissant,1.8
+656,Bakery,croissant,1.8
+657,Bakery,croissant,1.8
+658,Bakery,croissant,1.8
+659,Bakery,croissant,1.8
+660,Bakery,croissant,1.8
+661,Bakery,croissant,2.52
+662,Bakery,croissant,2.52
+663,Bakery,croissant,2.52
+664,Bakery,croissant,2.52
+665,Bakery,croissant,2.52
+666,Bakery,croissant,2.52
+667,Bakery,croissant,2.52
+668,Bakery,croissant,2.52
+669,Bakery,croissant,2.52
+670,Bakery,croissant,2.52
+671,Bakery,muffin pack,2.33
+672,Bakery,muffin pack,2.33
+673,Bakery,muffin pack,2.33
+674,Bakery,muffin pack,2.33
+675,Bakery,muffin pack,2.33
+676,Bakery,muffin pack,2.33
+677,Bakery,muffin pack,2.33
+678,Bakery,muffin pack,2.33
+679,Bakery,muffin pack,2.33
+680,Bakery,muffin pack,2.33
+681,Bakery,muffin pack,3.1
+682,Bakery,muffin pack,3.1
+683,Bakery,muffin pack,3.1
+684,Bakery,muffin pack,3.1
+685,Bakery,muffin pack,3.1
+686,Bakery,muffin pack,3.1
+687,Bakery,muffin pack,3.1
+688,Bakery,muffin pack,3.1
+689,Bakery,muffin pack,3.1
+690,Bakery,muffin pack,3.1
+691,Bakery,muffin pack,4.19
+692,Bakery,muffin pack,4.19
+693,Bakery,muffin pack,4.19
+694,Bakery,muffin pack,4.19
+695,Bakery,muffin pack,4.19
+696,Bakery,muffin pack,4.19
+697,Bakery,muffin pack,4.19
+698,Bakery,muffin pack,4.19
+699,Bakery,muffin pack,4.19
+700,Bakery,muffin pack,4.19
+701,Frozen Food,pizza,4.02
+702,Frozen Food,pizza,4.02
+703,Frozen Food,pizza,4.02
+704,Frozen Food,pizza,4.02
+705,Frozen Food,pizza,4.02
+706,Frozen Food,pizza,4.02
+707,Frozen Food,pizza,4.02
+708,Frozen Food,pizza,4.02
+709,Frozen Food,pizza,4.02
+710,Frozen Food,pizza,4.02
+711,Frozen Food,pizza,5.75
+712,Frozen Food,pizza,5.75
+713,Frozen Food,pizza,5.75
+714,Frozen Food,pizza,5.75
+715,Frozen Food,pizza,5.75
+716,Frozen Food,pizza,5.75
+717,Frozen Food,pizza,5.75
+718,Frozen Food,pizza,5.75
+719,Frozen Food,pizza,5.75
+720,Frozen Food,pizza,5.75
+721,Frozen Food,pizza,8.34
+722,Frozen Food,pizza,8.34
+723,Frozen Food,pizza,8.34
+724,Frozen Food,pizza,8.34
+725,Frozen Food,pizza,8.34
+726,Frozen Food,pizza,8.34
+727,Frozen Food,pizza,8.34
+728,Frozen Food,pizza,8.34
+729,Frozen Food,pizza,8.34
+730,Frozen Food,pizza,8.34
+731,Frozen Food,veggies mix,2.21
+732,Frozen Food,veggies mix,2.21
+733,Frozen Food,veggies mix,2.21
+734,Frozen Food,veggies mix,2.21
+735,Frozen Food,veggies mix,2.21
+736,Frozen Food,veggies mix,2.21
+737,Frozen Food,veggies mix,2.21
+738,Frozen Food,veggies mix,2.21
+739,Frozen Food,veggies mix,2.21
+740,Frozen Food,veggies mix,2.21
+741,Frozen Food,veggies mix,2.95
+742,Frozen Food,veggies mix,2.95
+743,Frozen Food,veggies mix,2.95
+744,Frozen Food,veggies mix,2.95
+745,Frozen Food,veggies mix,2.95
+746,Frozen Food,veggies mix,2.95
+747,Frozen Food,veggies mix,2.95
+748,Frozen Food,veggies mix,2.95
+749,Frozen Food,veggies mix,2.95
+750,Frozen Food,veggies mix,2.95
+751,Frozen Food,veggies mix,3.98
+752,Frozen Food,veggies mix,3.98
+753,Frozen Food,veggies mix,3.98
+754,Frozen Food,veggies mix,3.98
+755,Frozen Food,veggies mix,3.98
+756,Frozen Food,veggies mix,3.98
+757,Frozen Food,veggies mix,3.98
+758,Frozen Food,veggies mix,3.98
+759,Frozen Food,veggies mix,3.98
+760,Frozen Food,veggies mix,3.98
+761,Frozen Food,ice‑cream pint,3.49
+762,Frozen Food,ice‑cream pint,3.49
+763,Frozen Food,ice‑cream pint,3.49
+764,Frozen Food,ice‑cream pint,3.49
+765,Frozen Food,ice‑cream pint,3.49
+766,Frozen Food,ice‑cream pint,3.49
+767,Frozen Food,ice‑cream pint,3.49
+768,Frozen Food,ice‑cream pint,3.49
+769,Frozen Food,ice‑cream pint,3.49
+770,Frozen Food,ice‑cream pint,3.49
+771,Frozen Food,ice‑cream pint,4.99
+772,Frozen Food,ice‑cream pint,4.99
+773,Frozen Food,ice‑cream pint,4.99
+774,Frozen Food,ice‑cream pint,4.99
+775,Frozen Food,ice‑cream pint,4.99
+776,Frozen Food,ice‑cream pint,4.99
+777,Frozen Food,ice‑cream pint,4.99
+778,Frozen Food,ice‑cream pint,4.99
+779,Frozen Food,ice‑cream pint,4.99
+780,Frozen Food,ice‑cream pint,4.99
+781,Frozen Food,ice‑cream pint,6.99
+782,Frozen Food,ice‑cream pint,6.99
+783,Frozen Food,ice‑cream pint,6.99
+784,Frozen Food,ice‑cream pint,6.99
+785,Frozen Food,ice‑cream pint,6.99
+786,Frozen Food,ice‑cream pint,6.99
+787,Frozen Food,ice‑cream pint,6.99
+788,Frozen Food,ice‑cream pint,6.99
+789,Frozen Food,ice‑cream pint,6.99
+790,Frozen Food,ice‑cream pint,6.99
+791,Frozen Food,dumplings,4.06
+792,Frozen Food,dumplings,4.06
+793,Frozen Food,dumplings,4.06
+794,Frozen Food,dumplings,4.06
+795,Frozen Food,dumplings,4.06
+796,Frozen Food,dumplings,4.06
+797,Frozen Food,dumplings,4.06
+798,Frozen Food,dumplings,4.06
+799,Frozen Food,dumplings,4.06
+800,Frozen Food,dumplings,4.06
+801,Frozen Food,dumplings,6.25
+802,Frozen Food,dumplings,6.25
+803,Frozen Food,dumplings,6.25
+804,Frozen Food,dumplings,6.25
+805,Frozen Food,dumplings,6.25
+806,Frozen Food,dumplings,6.25
+807,Frozen Food,dumplings,6.25
+808,Frozen Food,dumplings,6.25
+809,Frozen Food,dumplings,6.25
+810,Frozen Food,dumplings,6.25
+811,Frozen Food,dumplings,9.38
+812,Frozen Food,dumplings,9.38
+813,Frozen Food,dumplings,9.38
+814,Frozen Food,dumplings,9.38
+815,Frozen Food,dumplings,9.38
+816,Frozen Food,dumplings,9.38
+817,Frozen Food,dumplings,9.38
+818,Frozen Food,dumplings,9.38
+819,Frozen Food,dumplings,9.38
+820,Frozen Food,dumplings,9.38
+821,Frozen Food,chicken nuggets,3.57
+822,Frozen Food,chicken nuggets,3.57
+823,Frozen Food,chicken nuggets,3.57
+824,Frozen Food,chicken nuggets,3.57
+825,Frozen Food,chicken nuggets,3.57
+826,Frozen Food,chicken nuggets,3.57
+827,Frozen Food,chicken nuggets,3.57
+828,Frozen Food,chicken nuggets,3.57
+829,Frozen Food,chicken nuggets,3.57
+830,Frozen Food,chicken nuggets,3.57
+831,Frozen Food,chicken nuggets,5.1
+832,Frozen Food,chicken nuggets,5.1
+833,Frozen Food,chicken nuggets,5.1
+834,Frozen Food,chicken nuggets,5.1
+835,Frozen Food,chicken nuggets,5.1
+836,Frozen Food,chicken nuggets,5.1
+837,Frozen Food,chicken nuggets,5.1
+838,Frozen Food,chicken nuggets,5.1
+839,Frozen Food,chicken nuggets,5.1
+840,Frozen Food,chicken nuggets,5.1
+841,Frozen Food,chicken nuggets,7.14
+842,Frozen Food,chicken nuggets,7.14
+843,Frozen Food,chicken nuggets,7.14
+844,Frozen Food,chicken nuggets,7.14
+845,Frozen Food,chicken nuggets,7.14
+846,Frozen Food,chicken nuggets,7.14
+847,Frozen Food,chicken nuggets,7.14
+848,Frozen Food,chicken nuggets,7.14
+849,Frozen Food,chicken nuggets,7.14
+850,Frozen Food,chicken nuggets,7.14
+851,Household Cleaners,dish soap,2.24
+852,Household Cleaners,dish soap,2.24
+853,Household Cleaners,dish soap,2.24
+854,Household Cleaners,dish soap,2.24
+855,Household Cleaners,dish soap,2.24
+856,Household Cleaners,dish soap,2.24
+857,Household Cleaners,dish soap,2.24
+858,Household Cleaners,dish soap,2.24
+859,Household Cleaners,dish soap,2.24
+860,Household Cleaners,dish soap,2.24
+861,Household Cleaners,dish soap,2.99
+862,Household Cleaners,dish soap,2.99
+863,Household Cleaners,dish soap,2.99
+864,Household Cleaners,dish soap,2.99
+865,Household Cleaners,dish soap,2.99
+866,Household Cleaners,dish soap,2.99
+867,Household Cleaners,dish soap,2.99
+868,Household Cleaners,dish soap,2.99
+869,Household Cleaners,dish soap,2.99
+870,Household Cleaners,dish soap,2.99
+871,Household Cleaners,dish soap,3.89
+872,Household Cleaners,dish soap,3.89
+873,Household Cleaners,dish soap,3.89
+874,Household Cleaners,dish soap,3.89
+875,Household Cleaners,dish soap,3.89
+876,Household Cleaners,dish soap,3.89
+877,Household Cleaners,dish soap,3.89
+878,Household Cleaners,dish soap,3.89
+879,Household Cleaners,dish soap,3.89
+880,Household Cleaners,dish soap,3.89
+881,Household Cleaners,laundry pods,6.64
+882,Household Cleaners,laundry pods,6.64
+883,Household Cleaners,laundry pods,6.64
+884,Household Cleaners,laundry pods,6.64
+885,Household Cleaners,laundry pods,6.64
+886,Household Cleaners,laundry pods,6.64
+887,Household Cleaners,laundry pods,6.64
+888,Household Cleaners,laundry pods,6.64
+889,Household Cleaners,laundry pods,6.64
+890,Household Cleaners,laundry pods,6.64
+891,Household Cleaners,laundry pods,9.49
+892,Household Cleaners,laundry pods,9.49
+893,Household Cleaners,laundry pods,9.49
+894,Household Cleaners,laundry pods,9.49
+895,Household Cleaners,laundry pods,9.49
+896,Household Cleaners,laundry pods,9.49
+897,Household Cleaners,laundry pods,9.49
+898,Household Cleaners,laundry pods,9.49
+899,Household Cleaners,laundry pods,9.49
+900,Household Cleaners,laundry pods,9.49
+901,Household Cleaners,laundry pods,13.29
+902,Household Cleaners,laundry pods,13.29
+903,Household Cleaners,laundry pods,13.29
+904,Household Cleaners,laundry pods,13.29
+905,Household Cleaners,laundry pods,13.29
+906,Household Cleaners,laundry pods,13.29
+907,Household Cleaners,laundry pods,13.29
+908,Household Cleaners,laundry pods,13.29
+909,Household Cleaners,laundry pods,13.29
+910,Household Cleaners,laundry pods,13.29
+911,Household Cleaners,glass spray,3.03
+912,Household Cleaners,glass spray,3.03
+913,Household Cleaners,glass spray,3.03
+914,Household Cleaners,glass spray,3.03
+915,Household Cleaners,glass spray,3.03
+916,Household Cleaners,glass spray,3.03
+917,Household Cleaners,glass spray,3.03
+918,Household Cleaners,glass spray,3.03
+919,Household Cleaners,glass spray,3.03
+920,Household Cleaners,glass spray,3.03
+921,Household Cleaners,glass spray,3.79
+922,Household Cleaners,glass spray,3.79
+923,Household Cleaners,glass spray,3.79
+924,Household Cleaners,glass spray,3.79
+925,Household Cleaners,glass spray,3.79
+926,Household Cleaners,glass spray,3.79
+927,Household Cleaners,glass spray,3.79
+928,Household Cleaners,glass spray,3.79
+929,Household Cleaners,glass spray,3.79
+930,Household Cleaners,glass spray,3.79
+931,Household Cleaners,glass spray,4.74
+932,Household Cleaners,glass spray,4.74
+933,Household Cleaners,glass spray,4.74
+934,Household Cleaners,glass spray,4.74
+935,Household Cleaners,glass spray,4.74
+936,Household Cleaners,glass spray,4.74
+937,Household Cleaners,glass spray,4.74
+938,Household Cleaners,glass spray,4.74
+939,Household Cleaners,glass spray,4.74
+940,Household Cleaners,glass spray,4.74
+941,Household Cleaners,bleach,2.76
+942,Household Cleaners,bleach,2.76
+943,Household Cleaners,bleach,2.76
+944,Household Cleaners,bleach,2.76
+945,Household Cleaners,bleach,2.76
+946,Household Cleaners,bleach,2.76
+947,Household Cleaners,bleach,2.76
+948,Household Cleaners,bleach,2.76
+949,Household Cleaners,bleach,2.76
+950,Household Cleaners,bleach,2.76
+951,Household Cleaners,bleach,3.25
+952,Household Cleaners,bleach,3.25
+953,Household Cleaners,bleach,3.25
+954,Household Cleaners,bleach,3.25
+955,Household Cleaners,bleach,3.25
+956,Household Cleaners,bleach,3.25
+957,Household Cleaners,bleach,3.25
+958,Household Cleaners,bleach,3.25
+959,Household Cleaners,bleach,3.25
+960,Household Cleaners,bleach,3.25
+961,Household Cleaners,bleach,3.9
+962,Household Cleaners,bleach,3.9
+963,Household Cleaners,bleach,3.9
+964,Household Cleaners,bleach,3.9
+965,Household Cleaners,bleach,3.9
+966,Household Cleaners,bleach,3.9
+967,Household Cleaners,bleach,3.9
+968,Household Cleaners,bleach,3.9
+969,Household Cleaners,bleach,3.9
+970,Household Cleaners,bleach,3.9
+971,Household Cleaners,surface wipes,3.07
+972,Household Cleaners,surface wipes,3.07
+973,Household Cleaners,surface wipes,3.07
+974,Household Cleaners,surface wipes,3.07
+975,Household Cleaners,surface wipes,3.07
+976,Household Cleaners,surface wipes,3.07
+977,Household Cleaners,surface wipes,3.07
+978,Household Cleaners,surface wipes,3.07
+979,Household Cleaners,surface wipes,3.07
+980,Household Cleaners,surface wipes,3.07
+981,Household Cleaners,surface wipes,4.1
+982,Household Cleaners,surface wipes,4.1
+983,Household Cleaners,surface wipes,4.1
+984,Household Cleaners,surface wipes,4.1
+985,Household Cleaners,surface wipes,4.1
+986,Household Cleaners,surface wipes,4.1
+987,Household Cleaners,surface wipes,4.1
+988,Household Cleaners,surface wipes,4.1
+989,Household Cleaners,surface wipes,4.1
+990,Household Cleaners,surface wipes,4.1
+991,Household Cleaners,surface wipes,5.33
+992,Household Cleaners,surface wipes,5.33
+993,Household Cleaners,surface wipes,5.33
+994,Household Cleaners,surface wipes,5.33
+995,Household Cleaners,surface wipes,5.33
+996,Household Cleaners,surface wipes,5.33
+997,Household Cleaners,surface wipes,5.33
+998,Household Cleaners,surface wipes,5.33
+999,Household Cleaners,surface wipes,5.33
+1000,Household Cleaners,surface wipes,5.33
+1001,Personal Care,shampoo,4.54
+1002,Personal Care,shampoo,4.54
+1003,Personal Care,shampoo,4.54
+1004,Personal Care,shampoo,4.54
+1005,Personal Care,shampoo,4.54
+1006,Personal Care,shampoo,4.54
+1007,Personal Care,shampoo,4.54
+1008,Personal Care,shampoo,4.54
+1009,Personal Care,shampoo,4.54
+1010,Personal Care,shampoo,4.54
+1011,Personal Care,shampoo,6.49
+1012,Personal Care,shampoo,6.49
+1013,Personal Care,shampoo,6.49
+1014,Personal Care,shampoo,6.49
+1015,Personal Care,shampoo,6.49
+1016,Personal Care,shampoo,6.49
+1017,Personal Care,shampoo,6.49
+1018,Personal Care,shampoo,6.49
+1019,Personal Care,shampoo,6.49
+1020,Personal Care,shampoo,6.49
+1021,Personal Care,shampoo,9.73
+1022,Personal Care,shampoo,9.73
+1023,Personal Care,shampoo,9.73
+1024,Personal Care,shampoo,9.73
+1025,Personal Care,shampoo,9.73
+1026,Personal Care,shampoo,9.73
+1027,Personal Care,shampoo,9.73
+1028,Personal Care,shampoo,9.73
+1029,Personal Care,shampoo,9.73
+1030,Personal Care,shampoo,9.73
+1031,Personal Care,conditioner,4.54
+1032,Personal Care,conditioner,4.54
+1033,Personal Care,conditioner,4.54
+1034,Personal Care,conditioner,4.54
+1035,Personal Care,conditioner,4.54
+1036,Personal Care,conditioner,4.54
+1037,Personal Care,conditioner,4.54
+1038,Personal Care,conditioner,4.54
+1039,Personal Care,conditioner,4.54
+1040,Personal Care,conditioner,4.54
+1041,Personal Care,conditioner,6.49
+1042,Personal Care,conditioner,6.49
+1043,Personal Care,conditioner,6.49
+1044,Personal Care,conditioner,6.49
+1045,Personal Care,conditioner,6.49
+1046,Personal Care,conditioner,6.49
+1047,Personal Care,conditioner,6.49
+1048,Personal Care,conditioner,6.49
+1049,Personal Care,conditioner,6.49
+1050,Personal Care,conditioner,6.49
+1051,Personal Care,conditioner,9.73
+1052,Personal Care,conditioner,9.73
+1053,Personal Care,conditioner,9.73
+1054,Personal Care,conditioner,9.73
+1055,Personal Care,conditioner,9.73
+1056,Personal Care,conditioner,9.73
+1057,Personal Care,conditioner,9.73
+1058,Personal Care,conditioner,9.73
+1059,Personal Care,conditioner,9.73
+1060,Personal Care,conditioner,9.73
+1061,Personal Care,body wash,3.82
+1062,Personal Care,body wash,3.82
+1063,Personal Care,body wash,3.82
+1064,Personal Care,body wash,3.82
+1065,Personal Care,body wash,3.82
+1066,Personal Care,body wash,3.82
+1067,Personal Care,body wash,3.82
+1068,Personal Care,body wash,3.82
+1069,Personal Care,body wash,3.82
+1070,Personal Care,body wash,3.82
+1071,Personal Care,body wash,5.1
+1072,Personal Care,body wash,5.1
+1073,Personal Care,body wash,5.1
+1074,Personal Care,body wash,5.1
+1075,Personal Care,body wash,5.1
+1076,Personal Care,body wash,5.1
+1077,Personal Care,body wash,5.1
+1078,Personal Care,body wash,5.1
+1079,Personal Care,body wash,5.1
+1080,Personal Care,body wash,5.1
+1081,Personal Care,body wash,6.88
+1082,Personal Care,body wash,6.88
+1083,Personal Care,body wash,6.88
+1084,Personal Care,body wash,6.88
+1085,Personal Care,body wash,6.88
+1086,Personal Care,body wash,6.88
+1087,Personal Care,body wash,6.88
+1088,Personal Care,body wash,6.88
+1089,Personal Care,body wash,6.88
+1090,Personal Care,body wash,6.88
+1091,Personal Care,toothpaste,2.6
+1092,Personal Care,toothpaste,2.6
+1093,Personal Care,toothpaste,2.6
+1094,Personal Care,toothpaste,2.6
+1095,Personal Care,toothpaste,2.6
+1096,Personal Care,toothpaste,2.6
+1097,Personal Care,toothpaste,2.6
+1098,Personal Care,toothpaste,2.6
+1099,Personal Care,toothpaste,2.6
+1100,Personal Care,toothpaste,2.6
+1101,Personal Care,toothpaste,3.25
+1102,Personal Care,toothpaste,3.25
+1103,Personal Care,toothpaste,3.25
+1104,Personal Care,toothpaste,3.25
+1105,Personal Care,toothpaste,3.25
+1106,Personal Care,toothpaste,3.25
+1107,Personal Care,toothpaste,3.25
+1108,Personal Care,toothpaste,3.25
+1109,Personal Care,toothpaste,3.25
+1110,Personal Care,toothpaste,3.25
+1111,Personal Care,toothpaste,4.06
+1112,Personal Care,toothpaste,4.06
+1113,Personal Care,toothpaste,4.06
+1114,Personal Care,toothpaste,4.06
+1115,Personal Care,toothpaste,4.06
+1116,Personal Care,toothpaste,4.06
+1117,Personal Care,toothpaste,4.06
+1118,Personal Care,toothpaste,4.06
+1119,Personal Care,toothpaste,4.06
+1120,Personal Care,toothpaste,4.06
+1121,Personal Care,deodorant,3.56
+1122,Personal Care,deodorant,3.56
+1123,Personal Care,deodorant,3.56
+1124,Personal Care,deodorant,3.56
+1125,Personal Care,deodorant,3.56
+1126,Personal Care,deodorant,3.56
+1127,Personal Care,deodorant,3.56
+1128,Personal Care,deodorant,3.56
+1129,Personal Care,deodorant,3.56
+1130,Personal Care,deodorant,3.56
+1131,Personal Care,deodorant,4.75
+1132,Personal Care,deodorant,4.75
+1133,Personal Care,deodorant,4.75
+1134,Personal Care,deodorant,4.75
+1135,Personal Care,deodorant,4.75
+1136,Personal Care,deodorant,4.75
+1137,Personal Care,deodorant,4.75
+1138,Personal Care,deodorant,4.75
+1139,Personal Care,deodorant,4.75
+1140,Personal Care,deodorant,4.75
+1141,Personal Care,deodorant,6.17
+1142,Personal Care,deodorant,6.17
+1143,Personal Care,deodorant,6.17
+1144,Personal Care,deodorant,6.17
+1145,Personal Care,deodorant,6.17
+1146,Personal Care,deodorant,6.17
+1147,Personal Care,deodorant,6.17
+1148,Personal Care,deodorant,6.17
+1149,Personal Care,deodorant,6.17
+1150,Personal Care,deodorant,6.17
+1151,Electronics Accessories,earbuds,11.99
+1152,Electronics Accessories,earbuds,11.99
+1153,Electronics Accessories,earbuds,11.99
+1154,Electronics Accessories,earbuds,11.99
+1155,Electronics Accessories,earbuds,11.99
+1156,Electronics Accessories,earbuds,11.99
+1157,Electronics Accessories,earbuds,11.99
+1158,Electronics Accessories,earbuds,11.99
+1159,Electronics Accessories,earbuds,11.99
+1160,Electronics Accessories,earbuds,11.99
+1161,Electronics Accessories,earbuds,19.99
+1162,Electronics Accessories,earbuds,19.99
+1163,Electronics Accessories,earbuds,19.99
+1164,Electronics Accessories,earbuds,19.99
+1165,Electronics Accessories,earbuds,19.99
+1166,Electronics Accessories,earbuds,19.99
+1167,Electronics Accessories,earbuds,19.99
+1168,Electronics Accessories,earbuds,19.99
+1169,Electronics Accessories,earbuds,19.99
+1170,Electronics Accessories,earbuds,19.99
+1171,Electronics Accessories,earbuds,33.98
+1172,Electronics Accessories,earbuds,33.98
+1173,Electronics Accessories,earbuds,33.98
+1174,Electronics Accessories,earbuds,33.98
+1175,Electronics Accessories,earbuds,33.98
+1176,Electronics Accessories,earbuds,33.98
+1177,Electronics Accessories,earbuds,33.98
+1178,Electronics Accessories,earbuds,33.98
+1179,Electronics Accessories,earbuds,33.98
+1180,Electronics Accessories,earbuds,33.98
+1181,Electronics Accessories,phone case,9.09
+1182,Electronics Accessories,phone case,9.09
+1183,Electronics Accessories,phone case,9.09
+1184,Electronics Accessories,phone case,9.09
+1185,Electronics Accessories,phone case,9.09
+1186,Electronics Accessories,phone case,9.09
+1187,Electronics Accessories,phone case,9.09
+1188,Electronics Accessories,phone case,9.09
+1189,Electronics Accessories,phone case,9.09
+1190,Electronics Accessories,phone case,9.09
+1191,Electronics Accessories,phone case,12.99
+1192,Electronics Accessories,phone case,12.99
+1193,Electronics Accessories,phone case,12.99
+1194,Electronics Accessories,phone case,12.99
+1195,Electronics Accessories,phone case,12.99
+1196,Electronics Accessories,phone case,12.99
+1197,Electronics Accessories,phone case,12.99
+1198,Electronics Accessories,phone case,12.99
+1199,Electronics Accessories,phone case,12.99
+1200,Electronics Accessories,phone case,12.99
+1201,Electronics Accessories,phone case,18.19
+1202,Electronics Accessories,phone case,18.19
+1203,Electronics Accessories,phone case,18.19
+1204,Electronics Accessories,phone case,18.19
+1205,Electronics Accessories,phone case,18.19
+1206,Electronics Accessories,phone case,18.19
+1207,Electronics Accessories,phone case,18.19
+1208,Electronics Accessories,phone case,18.19
+1209,Electronics Accessories,phone case,18.19
+1210,Electronics Accessories,phone case,18.19
+1211,Electronics Accessories,HDMI cable,6.37
+1212,Electronics Accessories,HDMI cable,6.37
+1213,Electronics Accessories,HDMI cable,6.37
+1214,Electronics Accessories,HDMI cable,6.37
+1215,Electronics Accessories,HDMI cable,6.37
+1216,Electronics Accessories,HDMI cable,6.37
+1217,Electronics Accessories,HDMI cable,6.37
+1218,Electronics Accessories,HDMI cable,6.37
+1219,Electronics Accessories,HDMI cable,6.37
+1220,Electronics Accessories,HDMI cable,6.37
+1221,Electronics Accessories,HDMI cable,8.49
+1222,Electronics Accessories,HDMI cable,8.49
+1223,Electronics Accessories,HDMI cable,8.49
+1224,Electronics Accessories,HDMI cable,8.49
+1225,Electronics Accessories,HDMI cable,8.49
+1226,Electronics Accessories,HDMI cable,8.49
+1227,Electronics Accessories,HDMI cable,8.49
+1228,Electronics Accessories,HDMI cable,8.49
+1229,Electronics Accessories,HDMI cable,8.49
+1230,Electronics Accessories,HDMI cable,8.49
+1231,Electronics Accessories,HDMI cable,11.04
+1232,Electronics Accessories,HDMI cable,11.04
+1233,Electronics Accessories,HDMI cable,11.04
+1234,Electronics Accessories,HDMI cable,11.04
+1235,Electronics Accessories,HDMI cable,11.04
+1236,Electronics Accessories,HDMI cable,11.04
+1237,Electronics Accessories,HDMI cable,11.04
+1238,Electronics Accessories,HDMI cable,11.04
+1239,Electronics Accessories,HDMI cable,11.04
+1240,Electronics Accessories,HDMI cable,11.04
+1241,Electronics Accessories,USB‑C hub,16.24
+1242,Electronics Accessories,USB‑C hub,16.24
+1243,Electronics Accessories,USB‑C hub,16.24
+1244,Electronics Accessories,USB‑C hub,16.24
+1245,Electronics Accessories,USB‑C hub,16.24
+1246,Electronics Accessories,USB‑C hub,16.24
+1247,Electronics Accessories,USB‑C hub,16.24
+1248,Electronics Accessories,USB‑C hub,16.24
+1249,Electronics Accessories,USB‑C hub,16.24
+1250,Electronics Accessories,USB‑C hub,16.24
+1251,Electronics Accessories,USB‑C hub,24.99
+1252,Electronics Accessories,USB‑C hub,24.99
+1253,Electronics Accessories,USB‑C hub,24.99
+1254,Electronics Accessories,USB‑C hub,24.99
+1255,Electronics Accessories,USB‑C hub,24.99
+1256,Electronics Accessories,USB‑C hub,24.99
+1257,Electronics Accessories,USB‑C hub,24.99
+1258,Electronics Accessories,USB‑C hub,24.99
+1259,Electronics Accessories,USB‑C hub,24.99
+1260,Electronics Accessories,USB‑C hub,24.99
+1261,Electronics Accessories,USB‑C hub,37.48
+1262,Electronics Accessories,USB‑C hub,37.48
+1263,Electronics Accessories,USB‑C hub,37.48
+1264,Electronics Accessories,USB‑C hub,37.48
+1265,Electronics Accessories,USB‑C hub,37.48
+1266,Electronics Accessories,USB‑C hub,37.48
+1267,Electronics Accessories,USB‑C hub,37.48
+1268,Electronics Accessories,USB‑C hub,37.48
+1269,Electronics Accessories,USB‑C hub,37.48
+1270,Electronics Accessories,USB‑C hub,37.48
+1271,Electronics Accessories,powerbank,17.99
+1272,Electronics Accessories,powerbank,17.99
+1273,Electronics Accessories,powerbank,17.99
+1274,Electronics Accessories,powerbank,17.99
+1275,Electronics Accessories,powerbank,17.99
+1276,Electronics Accessories,powerbank,17.99
+1277,Electronics Accessories,powerbank,17.99
+1278,Electronics Accessories,powerbank,17.99
+1279,Electronics Accessories,powerbank,17.99
+1280,Electronics Accessories,powerbank,17.99
+1281,Electronics Accessories,powerbank,29.99
+1282,Electronics Accessories,powerbank,29.99
+1283,Electronics Accessories,powerbank,29.99
+1284,Electronics Accessories,powerbank,29.99
+1285,Electronics Accessories,powerbank,29.99
+1286,Electronics Accessories,powerbank,29.99
+1287,Electronics Accessories,powerbank,29.99
+1288,Electronics Accessories,powerbank,29.99
+1289,Electronics Accessories,powerbank,29.99
+1290,Electronics Accessories,powerbank,29.99
+1291,Electronics Accessories,powerbank,47.98
+1292,Electronics Accessories,powerbank,47.98
+1293,Electronics Accessories,powerbank,47.98
+1294,Electronics Accessories,powerbank,47.98
+1295,Electronics Accessories,powerbank,47.98
+1296,Electronics Accessories,powerbank,47.98
+1297,Electronics Accessories,powerbank,47.98
+1298,Electronics Accessories,powerbank,47.98
+1299,Electronics Accessories,powerbank,47.98
+1300,Electronics Accessories,powerbank,47.98
+1301,Small Appliances,toaster,24.49
+1302,Small Appliances,toaster,24.49
+1303,Small Appliances,toaster,24.49
+1304,Small Appliances,toaster,24.49
+1305,Small Appliances,toaster,24.49
+1306,Small Appliances,toaster,24.49
+1307,Small Appliances,toaster,34.99
+1308,Small Appliances,toaster,34.99
+1309,Small Appliances,toaster,34.99
+1310,Small Appliances,toaster,34.99
+1311,Small Appliances,toaster,34.99
+1312,Small Appliances,toaster,34.99
+1313,Small Appliances,toaster,34.99
+1314,Small Appliances,toaster,48.99
+1315,Small Appliances,toaster,48.99
+1316,Small Appliances,toaster,48.99
+1317,Small Appliances,toaster,48.99
+1318,Small Appliances,toaster,48.99
+1319,Small Appliances,toaster,48.99
+1320,Small Appliances,toaster,48.99
+1321,Small Appliances,kettle,22.49
+1322,Small Appliances,kettle,22.49
+1323,Small Appliances,kettle,22.49
+1324,Small Appliances,kettle,22.49
+1325,Small Appliances,kettle,22.49
+1326,Small Appliances,kettle,22.49
+1327,Small Appliances,kettle,22.49
+1328,Small Appliances,kettle,29.99
+1329,Small Appliances,kettle,29.99
+1330,Small Appliances,kettle,29.99
+1331,Small Appliances,kettle,29.99
+1332,Small Appliances,kettle,29.99
+1333,Small Appliances,kettle,29.99
+1334,Small Appliances,kettle,40.49
+1335,Small Appliances,kettle,40.49
+1336,Small Appliances,kettle,40.49
+1337,Small Appliances,kettle,40.49
+1338,Small Appliances,kettle,40.49
+1339,Small Appliances,kettle,40.49
+1340,Small Appliances,kettle,40.49
+1341,Small Appliances,blender,29.24
+1342,Small Appliances,blender,29.24
+1343,Small Appliances,blender,29.24
+1344,Small Appliances,blender,29.24
+1345,Small Appliances,blender,29.24
+1346,Small Appliances,blender,29.24
+1347,Small Appliances,blender,44.99
+1348,Small Appliances,blender,44.99
+1349,Small Appliances,blender,44.99
+1350,Small Appliances,blender,44.99
+1351,Small Appliances,blender,44.99
+1352,Small Appliances,blender,44.99
+1353,Small Appliances,blender,44.99
+1354,Small Appliances,blender,67.48
+1355,Small Appliances,blender,67.48
+1356,Small Appliances,blender,67.48
+1357,Small Appliances,blender,67.48
+1358,Small Appliances,blender,67.48
+1359,Small Appliances,blender,67.48
+1360,Small Appliances,blender,67.48
+1361,Small Appliances,hand mixer,18.74
+1362,Small Appliances,hand mixer,18.74
+1363,Small Appliances,hand mixer,18.74
+1364,Small Appliances,hand mixer,18.74
+1365,Small Appliances,hand mixer,18.74
+1366,Small Appliances,hand mixer,18.74
+1367,Small Appliances,hand mixer,24.99
+1368,Small Appliances,hand mixer,24.99
+1369,Small Appliances,hand mixer,24.99
+1370,Small Appliances,hand mixer,24.99
+1371,Small Appliances,hand mixer,24.99
+1372,Small Appliances,hand mixer,24.99
+1373,Small Appliances,hand mixer,33.74
+1374,Small Appliances,hand mixer,33.74
+1375,Small Appliances,hand mixer,33.74
+1376,Small Appliances,hand mixer,33.74
+1377,Small Appliances,hand mixer,33.74
+1378,Small Appliances,hand mixer,33.74
+1379,Small Appliances,hand mixer,33.74
+1380,Small Appliances,coffee grinder,27.99
+1381,Small Appliances,coffee grinder,27.99
+1382,Small Appliances,coffee grinder,27.99
+1383,Small Appliances,coffee grinder,27.99
+1384,Small Appliances,coffee grinder,27.99
+1385,Small Appliances,coffee grinder,27.99
+1386,Small Appliances,coffee grinder,27.99
+1387,Small Appliances,coffee grinder,39.99
+1388,Small Appliances,coffee grinder,39.99
+1389,Small Appliances,coffee grinder,39.99
+1390,Small Appliances,coffee grinder,39.99
+1391,Small Appliances,coffee grinder,39.99
+1392,Small Appliances,coffee grinder,39.99
+1393,Small Appliances,coffee grinder,39.99
+1394,Small Appliances,coffee grinder,57.99
+1395,Small Appliances,coffee grinder,57.99
+1396,Small Appliances,coffee grinder,57.99
+1397,Small Appliances,coffee grinder,57.99
+1398,Small Appliances,coffee grinder,57.99
+1399,Small Appliances,coffee grinder,57.99
+1400,Small Appliances,coffee grinder,57.99
+1401,Apparel Basics,crew‑neck tee,7.99
+1402,Apparel Basics,crew‑neck tee,7.99
+1403,Apparel Basics,crew‑neck tee,7.99
+1404,Apparel Basics,crew‑neck tee,7.99
+1405,Apparel Basics,crew‑neck tee,7.99
+1406,Apparel Basics,crew‑neck tee,7.99
+1407,Apparel Basics,crew‑neck tee,7.99
+1408,Apparel Basics,crew‑neck tee,9.99
+1409,Apparel Basics,crew‑neck tee,9.99
+1410,Apparel Basics,crew‑neck tee,9.99
+1411,Apparel Basics,crew‑neck tee,9.99
+1412,Apparel Basics,crew‑neck tee,9.99
+1413,Apparel Basics,crew‑neck tee,9.99
+1414,Apparel Basics,crew‑neck tee,9.99
+1415,Apparel Basics,crew‑neck tee,12.99
+1416,Apparel Basics,crew‑neck tee,12.99
+1417,Apparel Basics,crew‑neck tee,12.99
+1418,Apparel Basics,crew‑neck tee,12.99
+1419,Apparel Basics,crew‑neck tee,12.99
+1420,Apparel Basics,crew‑neck tee,12.99
+1421,Apparel Basics,polo,11.24
+1422,Apparel Basics,polo,11.24
+1423,Apparel Basics,polo,11.24
+1424,Apparel Basics,polo,11.24
+1425,Apparel Basics,polo,11.24
+1426,Apparel Basics,polo,11.24
+1427,Apparel Basics,polo,11.24
+1428,Apparel Basics,polo,14.99
+1429,Apparel Basics,polo,14.99
+1430,Apparel Basics,polo,14.99
+1431,Apparel Basics,polo,14.99
+1432,Apparel Basics,polo,14.99
+1433,Apparel Basics,polo,14.99
+1434,Apparel Basics,polo,20.24
+1435,Apparel Basics,polo,20.24
+1436,Apparel Basics,polo,20.24
+1437,Apparel Basics,polo,20.24
+1438,Apparel Basics,polo,20.24
+1439,Apparel Basics,polo,20.24
+1440,Apparel Basics,polo,20.24
+1441,Apparel Basics,hoodie,20.99
+1442,Apparel Basics,hoodie,20.99
+1443,Apparel Basics,hoodie,20.99
+1444,Apparel Basics,hoodie,20.99
+1445,Apparel Basics,hoodie,20.99
+1446,Apparel Basics,hoodie,20.99
+1447,Apparel Basics,hoodie,29.99
+1448,Apparel Basics,hoodie,29.99
+1449,Apparel Basics,hoodie,29.99
+1450,Apparel Basics,hoodie,29.99
+1451,Apparel Basics,hoodie,29.99
+1452,Apparel Basics,hoodie,29.99
+1453,Apparel Basics,hoodie,41.99
+1454,Apparel Basics,hoodie,41.99
+1455,Apparel Basics,hoodie,41.99
+1456,Apparel Basics,hoodie,41.99
+1457,Apparel Basics,hoodie,41.99
+1458,Apparel Basics,hoodie,41.99
+1459,Apparel Basics,hoodie,41.99
+1460,Apparel Basics,joggers,18.74
+1461,Apparel Basics,joggers,18.74
+1462,Apparel Basics,joggers,18.74
+1463,Apparel Basics,joggers,18.74
+1464,Apparel Basics,joggers,18.74
+1465,Apparel Basics,joggers,18.74
+1466,Apparel Basics,joggers,18.74
+1467,Apparel Basics,joggers,24.99
+1468,Apparel Basics,joggers,24.99
+1469,Apparel Basics,joggers,24.99
+1470,Apparel Basics,joggers,24.99
+1471,Apparel Basics,joggers,24.99
+1472,Apparel Basics,joggers,24.99
+1473,Apparel Basics,joggers,24.99
+1474,Apparel Basics,joggers,33.74
+1475,Apparel Basics,joggers,33.74
+1476,Apparel Basics,joggers,33.74
+1477,Apparel Basics,joggers,33.74
+1478,Apparel Basics,joggers,33.74
+1479,Apparel Basics,joggers,33.74
+1480,Apparel Basics,joggers,33.74
+1481,Apparel Basics,socks multipack,7.22
+1482,Apparel Basics,socks multipack,7.22
+1483,Apparel Basics,socks multipack,7.22
+1484,Apparel Basics,socks multipack,7.22
+1485,Apparel Basics,socks multipack,7.22
+1486,Apparel Basics,socks multipack,7.22
+1487,Apparel Basics,socks multipack,7.22
+1488,Apparel Basics,socks multipack,8.49
+1489,Apparel Basics,socks multipack,8.49
+1490,Apparel Basics,socks multipack,8.49
+1491,Apparel Basics,socks multipack,8.49
+1492,Apparel Basics,socks multipack,8.49
+1493,Apparel Basics,socks multipack,8.49
+1494,Apparel Basics,socks multipack,8.49
+1495,Apparel Basics,socks multipack,10.19
+1496,Apparel Basics,socks multipack,10.19
+1497,Apparel Basics,socks multipack,10.19
+1498,Apparel Basics,socks multipack,10.19
+1499,Apparel Basics,socks multipack,10.19
+1500,Apparel Basics,socks multipack,10.19

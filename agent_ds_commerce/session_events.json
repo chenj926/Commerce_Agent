@@ -1,0 +1,9085 @@
+[
+  {
+    "customer_id": 1,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 465,
+        "title": "Dairy item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 401,
+        "title": "Dairy item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 476,
+        "title": "Dairy item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 412,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 2,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1259,
+        "title": "Electronics Accessories item",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1246,
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1170,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 3,
+    "events": []
+  },
+  {
+    "customer_id": 4,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 5,
+    "events": []
+  },
+  {
+    "customer_id": 6,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 165,
+        "title": "Beverages item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 7,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 8,
+    "events": [
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1070,
+        "title": "Personal Care item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 810,
+        "title": "Frozen Food item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 9,
+    "events": [
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 10,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 748,
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 11,
+    "events": []
+  },
+  {
+    "customer_id": 12,
+    "events": [
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1233,
+        "title": "Electronics Accessories item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 13,
+    "events": []
+  },
+  {
+    "customer_id": 14,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 15,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 16,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 774,
+        "title": "Frozen Food item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 17,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 18,
+    "events": [
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 979,
+        "title": "Household Cleaners item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 19,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 860,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 863,
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1328,
+        "title": "Small Appliances item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1377,
+        "title": "Small Appliances item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1313,
+        "title": "Small Appliances item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 20,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 21,
+    "events": [
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 728,
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 22,
+    "events": [
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 23,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1215,
+        "title": "Electronics Accessories item",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1215,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 4
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 883,
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 24,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 9
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 25,
+    "events": []
+  },
+  {
+    "customer_id": 26,
+    "events": [
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1211,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 27,
+    "events": []
+  },
+  {
+    "customer_id": 28,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1327,
+        "title": "Small Appliances item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 29,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 587,
+        "title": "Bakery item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 30,
+    "events": []
+  },
+  {
+    "customer_id": 31,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 327,
+        "title": "Snacks item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 32,
+    "events": []
+  },
+  {
+    "customer_id": 33,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 11
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1070,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1017,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1111,
+        "title": "Personal Care item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 34,
+    "events": []
+  },
+  {
+    "customer_id": 35,
+    "events": [
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 36,
+    "events": []
+  },
+  {
+    "customer_id": 37,
+    "events": []
+  },
+  {
+    "customer_id": 38,
+    "events": [
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1048,
+        "title": "Personal Care item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 39,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 961,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 974,
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 948,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 40,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 41,
+    "events": []
+  },
+  {
+    "customer_id": 42,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 43,
+    "events": [
+      {
+        "type": "search",
+        "q": "hoodie",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "crew‑neck tee",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 44,
+    "events": []
+  },
+  {
+    "customer_id": 45,
+    "events": []
+  },
+  {
+    "customer_id": 46,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 874,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 47,
+    "events": []
+  },
+  {
+    "customer_id": 48,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 843,
+        "title": "Frozen Food item",
+        "days_ago": 7
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 779,
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 49,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 243,
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 362,
+        "title": "Snacks item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 50,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1486,
+        "title": "Apparel Basics item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "crew‑neck tee",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1431,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1471,
+        "title": "Apparel Basics item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 51,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 52,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1497,
+        "title": "Apparel Basics item",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 53,
+    "events": []
+  },
+  {
+    "customer_id": 54,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1306,
+        "title": "Small Appliances item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 55,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 56,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 57,
+    "events": []
+  },
+  {
+    "customer_id": 58,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 9
+      },
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 59,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 60,
+    "events": [
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 61,
+    "events": []
+  },
+  {
+    "customer_id": 62,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 936,
+        "title": "Household Cleaners item",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 874,
+        "title": "Household Cleaners item",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 63,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 875,
+        "title": "Household Cleaners item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 64,
+    "events": [
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 65,
+    "events": [
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 66,
+    "events": []
+  },
+  {
+    "customer_id": 67,
+    "events": []
+  },
+  {
+    "customer_id": 68,
+    "events": [
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1248,
+        "title": "Electronics Accessories item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1213,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 69,
+    "events": [
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 514,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 70,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 495,
+        "title": "Dairy item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 71,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 72,
+    "events": [
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 73,
+    "events": []
+  },
+  {
+    "customer_id": 74,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 75,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 8
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 656,
+        "title": "Bakery item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 76,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "blender",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 77,
+    "events": []
+  },
+  {
+    "customer_id": 78,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 3,
+        "title": "Beverages item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 79,
+    "events": []
+  },
+  {
+    "customer_id": 80,
+    "events": [
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 81,
+    "events": []
+  },
+  {
+    "customer_id": 82,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 765,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 712,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 83,
+    "events": []
+  },
+  {
+    "customer_id": 84,
+    "events": [
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 85,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 86,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 613,
+        "title": "Bakery item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 87,
+    "events": []
+  },
+  {
+    "customer_id": 88,
+    "events": []
+  },
+  {
+    "customer_id": 89,
+    "events": [
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 90,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1363,
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 210,
+        "title": "Snacks item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 217,
+        "title": "Snacks item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 91,
+    "events": [
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 528,
+        "title": "Dairy item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 92,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1329,
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1320,
+        "title": "Small Appliances item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1301,
+        "title": "Small Appliances item",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1005,
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 93,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 94,
+    "events": [
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 95,
+    "events": [
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 96,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 424,
+        "title": "Dairy item",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 97,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 10
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 98,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 9
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 774,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 99,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 100,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 101,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1128,
+        "title": "Personal Care item",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1086,
+        "title": "Personal Care item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 102,
+    "events": []
+  },
+  {
+    "customer_id": 103,
+    "events": [
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "shampoo",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 468,
+        "title": "Dairy item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 104,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 105,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 924,
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 106,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 866,
+        "title": "Household Cleaners item",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 107,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 108,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 388,
+        "title": "Snacks item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 109,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 652,
+        "title": "Bakery item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 110,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 710,
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 7
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 757,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 111,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 127,
+        "title": "Beverages item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 112,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 495,
+        "title": "Dairy item",
+        "days_ago": 10
+      },
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 113,
+    "events": [
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 538,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 114,
+    "events": [
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1273,
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 115,
+    "events": []
+  },
+  {
+    "customer_id": 116,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 117,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 926,
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 727,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 842,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 809,
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 118,
+    "events": []
+  },
+  {
+    "customer_id": 119,
+    "events": [
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1313,
+        "title": "Small Appliances item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 120,
+    "events": [
+      {
+        "type": "search",
+        "q": "shampoo",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1057,
+        "title": "Personal Care item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1083,
+        "title": "Personal Care item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1142,
+        "title": "Personal Care item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 121,
+    "events": [
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 122,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1032,
+        "title": "Personal Care item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 123,
+    "events": []
+  },
+  {
+    "customer_id": 124,
+    "events": [
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 125,
+    "events": [
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 126,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 127,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1128,
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 128,
+    "events": []
+  },
+  {
+    "customer_id": 129,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1366,
+        "title": "Small Appliances item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 130,
+    "events": []
+  },
+  {
+    "customer_id": 131,
+    "events": []
+  },
+  {
+    "customer_id": 132,
+    "events": []
+  },
+  {
+    "customer_id": 133,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 134,
+    "events": [
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 135,
+    "events": [
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1207,
+        "title": "Electronics Accessories item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 136,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1181,
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 137,
+    "events": []
+  },
+  {
+    "customer_id": 138,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 139,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1213,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1292,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 140,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1310,
+        "title": "Small Appliances item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "blender",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1323,
+        "title": "Small Appliances item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 141,
+    "events": [
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 326,
+        "title": "Snacks item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 266,
+        "title": "Snacks item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 349,
+        "title": "Snacks item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 153,
+        "title": "Beverages item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 142,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 143,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 144,
+    "events": [
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 188,
+        "title": "Beverages item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 198,
+        "title": "Beverages item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 87,
+        "title": "Beverages item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 145,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 11
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 146,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 542,
+        "title": "Dairy item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 147,
+    "events": [
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 993,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 148,
+    "events": []
+  },
+  {
+    "customer_id": 149,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 150,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 70,
+        "title": "Beverages item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 151,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 11
+      },
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 37,
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 152,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 9
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 153,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 154,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 67,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 155,
+    "events": []
+  },
+  {
+    "customer_id": 156,
+    "events": [
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 157,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 847,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 158,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 46,
+        "title": "Beverages item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 159,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 160,
+    "events": [
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 7
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 99,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 153,
+        "title": "Beverages item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 161,
+    "events": []
+  },
+  {
+    "customer_id": 162,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 561,
+        "title": "Bakery item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1274,
+        "title": "Electronics Accessories item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 163,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 164,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 165,
+    "events": []
+  },
+  {
+    "customer_id": 166,
+    "events": [
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 167,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 424,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 168,
+    "events": []
+  },
+  {
+    "customer_id": 169,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 170,
+    "events": []
+  },
+  {
+    "customer_id": 171,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1470,
+        "title": "Apparel Basics item",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 172,
+    "events": [
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 149,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 173,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 174,
+    "events": [
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 10
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 175,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 960,
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 993,
+        "title": "Household Cleaners item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 176,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 563,
+        "title": "Bakery item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 177,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 178,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 179,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 180,
+    "events": []
+  },
+  {
+    "customer_id": 181,
+    "events": []
+  },
+  {
+    "customer_id": 182,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 183,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 184,
+    "events": [
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 185,
+    "events": [
+      {
+        "type": "search",
+        "q": "joggers",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 186,
+    "events": []
+  },
+  {
+    "customer_id": 187,
+    "events": [
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1020,
+        "title": "Personal Care item",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 188,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 189,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1147,
+        "title": "Personal Care item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 190,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 844,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 191,
+    "events": [
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 818,
+        "title": "Frozen Food item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 713,
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 192,
+    "events": []
+  },
+  {
+    "customer_id": 193,
+    "events": []
+  },
+  {
+    "customer_id": 194,
+    "events": [
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 387,
+        "title": "Snacks item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 195,
+    "events": []
+  },
+  {
+    "customer_id": 196,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 197,
+    "events": [
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1382,
+        "title": "Small Appliances item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1348,
+        "title": "Small Appliances item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 198,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 748,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 743,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 199,
+    "events": [
+      {
+        "type": "search",
+        "q": "shampoo",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 200,
+    "events": []
+  },
+  {
+    "customer_id": 201,
+    "events": []
+  },
+  {
+    "customer_id": 202,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 203,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 204,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 205,
+    "events": [
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 206,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 519,
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1191,
+        "title": "Electronics Accessories item",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 207,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 776,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 208,
+    "events": [
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 7
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1292,
+        "title": "Electronics Accessories item",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 209,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 898,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 983,
+        "title": "Household Cleaners item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 210,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 8
+      },
+      {
+        "type": "search",
+        "q": "crew‑neck tee",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "hoodie",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 211,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 212,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1142,
+        "title": "Personal Care item",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 213,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 247,
+        "title": "Snacks item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 326,
+        "title": "Snacks item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 214,
+    "events": [
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 396,
+        "title": "Snacks item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 278,
+        "title": "Snacks item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 215,
+    "events": []
+  },
+  {
+    "customer_id": 216,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 217,
+    "events": []
+  },
+  {
+    "customer_id": 218,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 696,
+        "title": "Bakery item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 584,
+        "title": "Bakery item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 141,
+        "title": "Beverages item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 219,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 8
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 220,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 10
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 918,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 911,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 221,
+    "events": []
+  },
+  {
+    "customer_id": 222,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 223,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 224,
+    "events": [
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 225,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 618,
+        "title": "Bakery item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 669,
+        "title": "Bakery item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 226,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1427,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "joggers",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 227,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 228,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 229,
+    "events": [
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 441,
+        "title": "Dairy item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 230,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 231,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 933,
+        "title": "Household Cleaners item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 232,
+    "events": [
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 233,
+    "events": [
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 234,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1178,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1174,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1255,
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 235,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 873,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 955,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 236,
+    "events": []
+  },
+  {
+    "customer_id": 237,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 238,
+    "events": [
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 239,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 240,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 11
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 483,
+        "title": "Dairy item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 241,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 11
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1473,
+        "title": "Apparel Basics item",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1470,
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 242,
+    "events": [
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 959,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 243,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 244,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 245,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 246,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 734,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 818,
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 786,
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 247,
+    "events": [
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 206,
+        "title": "Snacks item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 248,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1218,
+        "title": "Electronics Accessories item",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 249,
+    "events": [
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1083,
+        "title": "Personal Care item",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 250,
+    "events": [
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 251,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 252,
+    "events": []
+  },
+  {
+    "customer_id": 253,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 254,
+    "events": [
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 255,
+    "events": [
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 256,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 257,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1114,
+        "title": "Personal Care item",
+        "days_ago": 9
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 968,
+        "title": "Household Cleaners item",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 258,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 768,
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 259,
+    "events": []
+  },
+  {
+    "customer_id": 260,
+    "events": [
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1133,
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 261,
+    "events": [
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 83,
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 262,
+    "events": [
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 239,
+        "title": "Snacks item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 263,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 264,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1314,
+        "title": "Small Appliances item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "blender",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "blender",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 265,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 266,
+    "events": []
+  },
+  {
+    "customer_id": 267,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1191,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 268,
+    "events": []
+  },
+  {
+    "customer_id": 269,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 270,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 9
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 824,
+        "title": "Frozen Food item",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 809,
+        "title": "Frozen Food item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 271,
+    "events": [
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 272,
+    "events": [
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 273,
+    "events": []
+  },
+  {
+    "customer_id": 274,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1405,
+        "title": "Apparel Basics item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 275,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 469,
+        "title": "Dairy item",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 276,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1328,
+        "title": "Small Appliances item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 123,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 277,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1098,
+        "title": "Personal Care item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1146,
+        "title": "Personal Care item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 278,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 279,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 582,
+        "title": "Bakery item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 280,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 423,
+        "title": "Dairy item",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 281,
+    "events": [
+      {
+        "type": "search",
+        "q": "crew‑neck tee",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 338,
+        "title": "Snacks item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 282,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1478,
+        "title": "Apparel Basics item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 283,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 711,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 284,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 285,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 286,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 8
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 252,
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 298,
+        "title": "Snacks item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 287,
+    "events": []
+  },
+  {
+    "customer_id": 288,
+    "events": []
+  },
+  {
+    "customer_id": 289,
+    "events": [
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 834,
+        "title": "Frozen Food item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 290,
+    "events": [
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 291,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 811,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 292,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 293,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1026,
+        "title": "Personal Care item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 294,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 295,
+    "events": [
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 296,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 8
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 297,
+    "events": [
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 298,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 574,
+        "title": "Bakery item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 689,
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 299,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 674,
+        "title": "Bakery item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 656,
+        "title": "Bakery item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 300,
+    "events": []
+  },
+  {
+    "customer_id": 301,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "socks multipack",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1026,
+        "title": "Personal Care item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 302,
+    "events": []
+  },
+  {
+    "customer_id": 303,
+    "events": []
+  },
+  {
+    "customer_id": 304,
+    "events": []
+  },
+  {
+    "customer_id": 305,
+    "events": []
+  },
+  {
+    "customer_id": 306,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 307,
+    "events": []
+  },
+  {
+    "customer_id": 308,
+    "events": []
+  },
+  {
+    "customer_id": 309,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 310,
+    "events": [
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1196,
+        "title": "Electronics Accessories item",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 311,
+    "events": []
+  },
+  {
+    "customer_id": 312,
+    "events": [
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 313,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 314,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 870,
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 926,
+        "title": "Household Cleaners item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 315,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 10
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 5
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 47,
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 316,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 317,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 318,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 178,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 23,
+        "title": "Beverages item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 13,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 319,
+    "events": [
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 320,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 321,
+    "events": [
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 322,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 719,
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 323,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 432,
+        "title": "Dairy item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 324,
+    "events": [
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 728,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 766,
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 325,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 326,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 425,
+        "title": "Dairy item",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 327,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1025,
+        "title": "Personal Care item",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1040,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1070,
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 328,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 329,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 533,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 546,
+        "title": "Dairy item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 474,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 432,
+        "title": "Dairy item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 330,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 331,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 332,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 732,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 333,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1227,
+        "title": "Electronics Accessories item",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1167,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 334,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 470,
+        "title": "Dairy item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 335,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 763,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 336,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 86,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 30,
+        "title": "Beverages item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 149,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1446,
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "socks multipack",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 337,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 338,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 659,
+        "title": "Bakery item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 595,
+        "title": "Bakery item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "croissant",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 339,
+    "events": [
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 340,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 353,
+        "title": "Snacks item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 336,
+        "title": "Snacks item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 325,
+        "title": "Snacks item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1183,
+        "title": "Electronics Accessories item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "earbuds",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1268,
+        "title": "Electronics Accessories item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 341,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 342,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1278,
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1255,
+        "title": "Electronics Accessories item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "USB‑C hub",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 343,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 746,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 344,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1431,
+        "title": "Apparel Basics item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1445,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 345,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 346,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 498,
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 347,
+    "events": [
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1255,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 348,
+    "events": [
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1216,
+        "title": "Electronics Accessories item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 349,
+    "events": [
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 128,
+        "title": "Beverages item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 350,
+    "events": []
+  },
+  {
+    "customer_id": 351,
+    "events": []
+  },
+  {
+    "customer_id": 352,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 353,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 655,
+        "title": "Bakery item",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 354,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 355,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 356,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 534,
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 4
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 125,
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 357,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 896,
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 358,
+    "events": []
+  },
+  {
+    "customer_id": 359,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "conditioner",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1119,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1063,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 360,
+    "events": []
+  },
+  {
+    "customer_id": 361,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 362,
+    "events": [
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 5
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 149,
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 363,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 7
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 719,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 798,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 364,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 8
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 112,
+        "title": "Beverages item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 365,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 9
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 366,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 367,
+    "events": []
+  },
+  {
+    "customer_id": 368,
+    "events": [
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 302,
+        "title": "Snacks item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 369,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 370,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 97,
+        "title": "Beverages item",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 371,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 902,
+        "title": "Household Cleaners item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 372,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1011,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 373,
+    "events": [
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1067,
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 374,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 375,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1311,
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1374,
+        "title": "Small Appliances item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 376,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 377,
+    "events": [
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 378,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1446,
+        "title": "Apparel Basics item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "joggers",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1441,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1484,
+        "title": "Apparel Basics item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 379,
+    "events": [
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 887,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 881,
+        "title": "Household Cleaners item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 380,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "yogurt cup",
+        "days_ago": 7
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 133,
+        "title": "Beverages item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 381,
+    "events": [
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 297,
+        "title": "Snacks item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 382,
+    "events": [
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 4
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 383,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 384,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 385,
+    "events": [
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 5
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 70,
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 13,
+        "title": "Beverages item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1491,
+        "title": "Apparel Basics item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "crew‑neck tee",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 386,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 387,
+    "events": [
+      {
+        "type": "search",
+        "q": "toaster",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 388,
+    "events": []
+  },
+  {
+    "customer_id": 389,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "joggers",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1474,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "socks multipack",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1481,
+        "title": "Apparel Basics item",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 390,
+    "events": [
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 391,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 741,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 392,
+    "events": [
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 207,
+        "title": "Snacks item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 393,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 394,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 395,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 396,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 397,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1087,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1027,
+        "title": "Personal Care item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "deodorant",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1147,
+        "title": "Personal Care item",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 398,
+    "events": [
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 399,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 4
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 434,
+        "title": "Dairy item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 400,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 274,
+        "title": "Snacks item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 401,
+    "events": [
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 402,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 138,
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 403,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1001,
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "body wash",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 883,
+        "title": "Household Cleaners item",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 404,
+    "events": [
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 267,
+        "title": "Snacks item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 405,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 406,
+    "events": [
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 407,
+    "events": []
+  },
+  {
+    "customer_id": 408,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 409,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 410,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 411,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 8
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1224,
+        "title": "Electronics Accessories item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1193,
+        "title": "Electronics Accessories item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 412,
+    "events": []
+  },
+  {
+    "customer_id": 413,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      },
+      {
+        "type": "search",
+        "q": "blender",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 1
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1386,
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1396,
+        "title": "Small Appliances item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "kettle",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 414,
+    "events": []
+  },
+  {
+    "customer_id": 415,
+    "events": []
+  },
+  {
+    "customer_id": 416,
+    "events": [
+      {
+        "type": "search",
+        "q": "laundry pods",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 851,
+        "title": "Household Cleaners item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 417,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 418,
+    "events": []
+  },
+  {
+    "customer_id": 419,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 1374,
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 420,
+    "events": [
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "socks multipack",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1481,
+        "title": "Apparel Basics item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 421,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 422,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 423,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 432,
+        "title": "Dairy item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 424,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "socks multipack",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 425,
+    "events": []
+  },
+  {
+    "customer_id": 426,
+    "events": []
+  },
+  {
+    "customer_id": 427,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 733,
+        "title": "Frozen Food item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 729,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 428,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 141,
+        "title": "Beverages item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 429,
+    "events": []
+  },
+  {
+    "customer_id": 430,
+    "events": []
+  },
+  {
+    "customer_id": 431,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 8
+      }
+    ]
+  },
+  {
+    "customer_id": 432,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 839,
+        "title": "Frozen Food item",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "pizza",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 770,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 433,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 434,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 435,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 436,
+    "events": [
+      {
+        "type": "search",
+        "q": "chicken nuggets",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 437,
+    "events": []
+  },
+  {
+    "customer_id": 438,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 439,
+    "events": []
+  },
+  {
+    "customer_id": 440,
+    "events": [
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 10
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 716,
+        "title": "Frozen Food item",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 713,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 441,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 80,
+        "title": "Beverages item",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 142,
+        "title": "Beverages item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1128,
+        "title": "Personal Care item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1132,
+        "title": "Personal Care item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1065,
+        "title": "Personal Care item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "toothpaste",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 442,
+    "events": []
+  },
+  {
+    "customer_id": 443,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 9
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 444,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 445,
+    "events": []
+  },
+  {
+    "customer_id": 446,
+    "events": []
+  },
+  {
+    "customer_id": 447,
+    "events": []
+  },
+  {
+    "customer_id": 448,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 405,
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 449,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 217,
+        "title": "Snacks item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 327,
+        "title": "Snacks item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 353,
+        "title": "Snacks item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 450,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 11
+      }
+    ]
+  },
+  {
+    "customer_id": 451,
+    "events": [
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 777,
+        "title": "Frozen Food item",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 452,
+    "events": [
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 453,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 237,
+        "title": "Snacks item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 454,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 10
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "surface wipes",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 455,
+    "events": [
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 5
+      }
+    ]
+  },
+  {
+    "customer_id": 456,
+    "events": [
+      {
+        "type": "search",
+        "q": "cola",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "juice box",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 457,
+    "events": []
+  },
+  {
+    "customer_id": 458,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 429,
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 426,
+        "title": "Dairy item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 459,
+    "events": []
+  },
+  {
+    "customer_id": 460,
+    "events": []
+  },
+  {
+    "customer_id": 461,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 462,
+    "events": []
+  },
+  {
+    "customer_id": 463,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 11
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 112,
+        "title": "Beverages item",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 464,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 261,
+        "title": "Snacks item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 465,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 466,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 467,
+    "events": [
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 468,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1182,
+        "title": "Electronics Accessories item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1289,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "powerbank",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 469,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 470,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "dish soap",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "bleach",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "cheese slices",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "oat milk",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 471,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 911,
+        "title": "Household Cleaners item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Household Cleaners",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "glass spray",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 3
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 213,
+        "title": "Snacks item",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Snacks",
+        "days_ago": 6
+      }
+    ]
+  },
+  {
+    "customer_id": 472,
+    "events": [
+      {
+        "type": "view_pdp",
+        "sku_id": 1294,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "HDMI cable",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 473,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      },
+      {
+        "type": "view_category",
+        "category": "Personal Care",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 474,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 5
+      },
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 475,
+    "events": []
+  },
+  {
+    "customer_id": 476,
+    "events": [
+      {
+        "type": "search",
+        "q": "white loaf",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "whole‑grain loaf",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 477,
+    "events": []
+  },
+  {
+    "customer_id": 478,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 486,
+        "title": "Dairy item",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 479,
+    "events": [
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 480,
+    "events": [
+      {
+        "type": "search",
+        "q": "energy drink",
+        "days_ago": 3
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 187,
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 30,
+        "title": "Beverages item",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 481,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1408,
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1474,
+        "title": "Apparel Basics item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "polo",
+        "days_ago": 6
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 584,
+        "title": "Bakery item",
+        "days_ago": 4
+      },
+      {
+        "type": "search",
+        "q": "bagel pack",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "muffin pack",
+        "days_ago": 3
+      }
+    ]
+  },
+  {
+    "customer_id": 482,
+    "events": []
+  },
+  {
+    "customer_id": 483,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 1
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1246,
+        "title": "Electronics Accessories item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 6
+      },
+      {
+        "type": "search",
+        "q": "ice‑cream pint",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 484,
+    "events": []
+  },
+  {
+    "customer_id": 485,
+    "events": [
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 7
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 486,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 11
+      },
+      {
+        "type": "view_category",
+        "category": "Small Appliances",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 5
+      },
+      {
+        "type": "search",
+        "q": "coffee grinder",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 487,
+    "events": [
+      {
+        "type": "search",
+        "q": "veggies mix",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 2
+      }
+    ]
+  },
+  {
+    "customer_id": 488,
+    "events": [
+      {
+        "type": "search",
+        "q": "potato chips",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 489,
+    "events": [
+      {
+        "type": "wishlist_add",
+        "sku_id": 1114,
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1032,
+        "title": "Personal Care item",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 43,
+        "title": "Beverages item",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      }
+    ]
+  },
+  {
+    "customer_id": 490,
+    "events": []
+  },
+  {
+    "customer_id": 491,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "hand mixer",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 492,
+    "events": [
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "popcorn",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 1
+      }
+    ]
+  },
+  {
+    "customer_id": 493,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 2
+      },
+      {
+        "type": "wishlist_add",
+        "sku_id": 463,
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 494,
+    "events": [
+      {
+        "type": "search",
+        "q": "mixed nuts",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "tortilla chips",
+        "days_ago": 1
+      },
+      {
+        "type": "search",
+        "q": "granola bar",
+        "days_ago": 4
+      }
+    ]
+  },
+  {
+    "customer_id": 495,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 496,
+    "events": [
+      {
+        "type": "search",
+        "q": "whole milk",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "butter stick",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Dairy",
+        "days_ago": 9
+      }
+    ]
+  },
+  {
+    "customer_id": 497,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Electronics Accessories",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "phone case",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "joggers",
+        "days_ago": 2
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 1474,
+        "title": "Apparel Basics item",
+        "days_ago": 7
+      },
+      {
+        "type": "view_category",
+        "category": "Apparel Basics",
+        "days_ago": 7
+      }
+    ]
+  },
+  {
+    "customer_id": 498,
+    "events": []
+  },
+  {
+    "customer_id": 499,
+    "events": [
+      {
+        "type": "view_category",
+        "category": "Beverages",
+        "days_ago": 2
+      },
+      {
+        "type": "search",
+        "q": "iced tea",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "water",
+        "days_ago": 3
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 0
+      },
+      {
+        "type": "search",
+        "q": "kombucha",
+        "days_ago": 2
+      },
+      {
+        "type": "view_category",
+        "category": "Bakery",
+        "days_ago": 10
+      }
+    ]
+  },
+  {
+    "customer_id": 500,
+    "events": [
+      {
+        "type": "search",
+        "q": "dumplings",
+        "days_ago": 0
+      },
+      {
+        "type": "view_pdp",
+        "sku_id": 712,
+        "title": "Frozen Food item",
+        "days_ago": 1
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 3
+      },
+      {
+        "type": "view_category",
+        "category": "Frozen Food",
+        "days_ago": 1
+      }
+    ]
+  }
+]
