@@ -1,10 +1,51 @@
 # HMITL: Manager-Governed LLM Iteration with Guardrails and Rollback for Reproducible Healthcare Machine Learning Pipelines
 
-This repository accompanies the paper **"HMITL: Manager-Governed LLM Iteration with Guardrails and Rollback for Reproducible Healthcare Machine Learning Pipelines"**.
+**Jialuo Chen · Haijing Wang · Siyu Shao**
 
-HMITL is a workflow protocol for manager-governed human-LLM collaboration in multimodal healthcare machine learning. Rather than allowing an LLM to iterate freely on a pipeline, HMITL assigns the human the role of **workflow manager**: maintaining the task brief, enforcing data-integrity guardrails, running deterministic evaluation, auditing every candidate, and rolling back regressions.
+**2026 IEEE 14th International Conference on Healthcare Informatics (ICHI)**  
+Pages 1218–1226
 
-The public release in this repository is organized around **AgentDS-Healthcare**, a synthetic, privacy-free benchmark with three tasks spanning structured tables, short clinical text, PDF receipts, and time-series JSON.
+[📄 IEEE Xplore](https://ieeexplore.ieee.org/document/11634837) ·
+[🔗 DOI](https://doi.org/10.1109/ICHI69079.2026.00156) ·
+[💻 Code](https://github.com/chenj926/ICHI_AgentDS_clai) ·
+[🤗 AgentDS-Healthcare](https://huggingface.co/datasets/lainmn/AgentDS-Healthcare) ·
+[📚 Citation](#citation)
+
+> **TL;DR —** HMITL is a manager-governed human–LLM collaboration protocol for iterative healthcare machine learning. Instead of allowing an LLM to autonomously modify a pipeline, the human manager controls evidence admission, data-integrity guardrails, deterministic evaluation, acceptance, and rollback. The protocol is evaluated across three multimodal AgentDS-Healthcare tasks spanning structured data, clinical text, PDF receipts, and time-series records.
+
+---
+
+## Overview
+
+Large language models can rapidly generate and modify machine-learning pipelines, but unconstrained iteration can introduce silent data errors, unstable feature engineering, unnecessary complexity, and performance regressions.
+
+**Human-Manager-in-the-Loop (HMITL)** separates proposal generation from acceptance:
+
+- **Builder LLM** proposes concrete pipeline changes.
+- **Human Manager** maintains the task brief, guardrails, and acceptance criteria.
+- **Evaluation Harness** deterministically evaluates every candidate.
+- **Rollback** restores the best-known pipeline after regressions.
+- **Artifact Logging** preserves prompts, decisions, metrics, and experiment traces for auditing and reproducibility.
+
+The repository accompanies our paper published at **IEEE ICHI 2026** and contains the code, notebooks, experiment traces, and reproducibility artifacts used in the study.
+
+<!-- Recommended:
+<p align="center">
+  <img src="docs/assets/hmitl_overview.png" width="850">
+</p>
+-->
+
+---
+
+## Key Results
+
+| Task | Metric | Naive Baseline | HMITL Result | Setting |
+|---|---:|---:|---:|---|
+| Challenge 1 — 30-day readmission | Macro-F1 ↑ | 0.6198 | **0.9014** | Competition window |
+| Challenge 2 — ED cost forecasting | MAE ↓ | 701.1945 | **447.9542** | Post-competition, official evaluation interface |
+| Challenge 3 — discharge readiness | Macro-F1 ↑ | 0.4889 | **0.8408** | Controlled 15-iteration study |
+
+For Challenge 3, the multi-window arbitration + rollback configuration achieved the highest score while also producing the smallest maximum drawdown and adjacent-iteration variance among the evaluated variants.
 
 ---
 
