@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the HMITL paper."
+title: "HMITL: Reproducibility Repository"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Jialuo
+  - family-names: Wang
+    given-names: Haijing
+  - family-names: Shao
+    given-names: Siyu
+repository-code: "https://github.com/chenj926/ICHI_AgentDS_clai"
+url: "https://ieeexplore.ieee.org/document/11634837"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Chen
+      given-names: Jialuo
+    - family-names: Wang
+      given-names: Haijing
+    - family-names: Shao
+      given-names: Siyu
+  title: "HMITL: Manager-Governed LLM Iteration with Guardrails and Rollback for Reproducible Healthcare Machine Learning Pipelines"
+  collection-title: "2026 IEEE 14th International Conference on Healthcare Informatics (ICHI)"
+  conference:
+    name: "2026 IEEE 14th International Conference on Healthcare Informatics (ICHI)"
+  year: 2026
+  start: 1218
+  end: 1226
+  doi: "10.1109/ICHI69079.2026.00156"
+  url: "https://ieeexplore.ieee.org/document/11634837"
+  keywords:
+    - Modeling
+    - Medical services
+    - Pipelines
+    - Artificial intelligence
+    - Machine learning
+    - Printing
+    - Windows
+    - Protocols
+    - Large language models
+    - Collaboration
+    - human–AI collaboration
+    - reproducibility
+    - large language models
+    - multimodal healthcare data
+    - data integrity
+    - benchmarking
