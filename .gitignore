@@ -1,27 +1,25 @@
+# This repository intentionally tracks only its public notebooks and documentation.
 *
 !*.ipynb
 !*.md
-
 !.gitignore
+!requirements.txt
+!.env.example
+!CITATION.cff
 
-|*.agent_ds_healthcare\Challenge1_Health_Final.ipynb
+# Publication assets used by README.md.
+!docs/
+!docs/assets/
+!docs/assets/*.pdf
+!docs/assets/*.png
 
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v2.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v3.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v4.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v5.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v6.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v7.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v8.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_v9.ipynb
-|*.agent_ds_healthcare\Challenge2_baseline_ichi_best.ipynb
-
-
-|*.agent_ds_healthcare\Challenge3_ichi_v0.ipynb
-|*.agent_ds_healthcare\Challenge3_ichi_v1.ipynb
-|*.agent_ds_healthcare\Challenge3_ichi_v2.ipynb
-|*.agent_ds_healthcare\Challenge3_ichi_v3.ipynb
-|*.agent_ds_healthcare\Challenge3_ichi_best.ipynb
-
-|*.requirements.txt
-|*.env.example
+# Local competition-era notebooks and drafts; not part of the paper release.
+/AgentDS_Commerce_Challenge2_End2End.ipynb
+/Challenge1_Final_Submission_Commerce.ipynb
+/Challenge1_Final_Submission_Commerce_222.ipynb
+/Challenge2_Final_Submission_Commerce.ipynb
+/Challenge2_baseline copy.ipynb
+/Challenge2_baseline.ipynb
+/Challenge3_Final_Submission_Commerce.ipynb
+/Challenge3_baseline(1).ipynb
+/README_draft.md
